@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+  <meta charset="utf-8" />
+    
+  <meta name="description" content="heyuqi&#39;s personal blog" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>
+    测试文件 |  heyuqi&#39;s personal blog
+  </title>
+  <meta name="generator" content="hexo-theme-ayer">
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  
+  
+<link rel="stylesheet" href="/dist/main.css">
+
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Shen-Yu/cdn/css/remixicon.min.css">
+
+  
+<link rel="stylesheet" href="/css/custom.css">
+
+  
+  
+<script src="https://cdn.jsdelivr.net/npm/pace-js@1.0.2/pace.min.js"></script>
+
+  
+  
+
+  
+
+<link rel="alternate" href="/atom.xml" title="HYQ's Blog" type="application/atom+xml">
+</head>
+
+</html>
+
+<body>
+  <div id="app">
+    
+      
+    <main class="content on">
+      <section class="outer">
+  <article
+  id="post-test"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h1 class="article-title sea-center" style="border-left:0" itemprop="name">
+  测试文件
+</h1>
+ 
+
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2020/10/04/title/category" class="article-date">
+  <time datetime="2020-10-03T18:00:24.000Z" itemprop="datePublished">2020-10-04</time>
+</a> 
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/daily/">-daily</a>
+  </div>
+  
+<div class="word_count">
+    <span class="post-time">
+        <span class="post-meta-item-icon">
+            <i class="ri-quill-pen-line"></i>
+            <span class="post-meta-item-text"> Word count:</span>
+            <span class="post-count">3.9k</span>
+        </span>
+    </span>
+
+    <span class="post-time">
+        &nbsp; | &nbsp;
+        <span class="post-meta-item-icon">
+            <i class="ri-book-open-line"></i>
+            <span class="post-meta-item-text"> Reading time≈</span>
+            <span class="post-count">12 min</span>
+        </span>
+    </span>
+</div>
+ 
+    </div>
+      
+    <div class="tocbot"></div>
+
+
+
+
+  
+    <div class="article-entry" itemprop="articleBody">
+       
+  <h2 id="第一篇文章：用于测试博客系统"><a href="#第一篇文章：用于测试博客系统" class="headerlink" title="第一篇文章：用于测试博客系统"></a>第一篇文章：用于测试博客系统</h2><p>第一次尝试搭建个人博客，想发一篇文章测试系统架构能否稳定地展示和更新，于是找了一篇以前的旧文章进行测试。该文章写于2019年12月3日，时过境迁，一些想法已经发生了改变，因此不代表当下的所思所想。加上文章冗长而无逻辑，是近乎意识流的碎碎念，自己再看的时候略有删改，但对于整体框架也无能为力。因此仅供博客功能测试。</p>
+<h1 id="北行记"><a href="#北行记" class="headerlink" title="北行记"></a>北行记</h1><p>在广东的一座南方小城长大，上大学跑到了千里之外的北方。一年多以来，对这也渐渐熟悉了，就写一篇碎碎念来整理一下印象比较深的所见所闻。</p>
+<p>我经常在下午的空闲时间站在窗户边往外望。东边近点儿的地方，最吸引眼球的是人大的文化大厦，跟一堵墙似的笔直地站在那儿，玻璃幕墙反射出绚烂的阳光。然后较为突出的几栋高楼是人大的理工楼和四通桥东南角上的数码大厦，以及东边新建的教学综合楼。远点儿可以看到国家图书馆那秀气的深青色尖顶。还有靠近主城区的一些比较旧的楼房，颜色颇为奇怪，什么灰绿色、灰蓝色、浅黄色都有，不算太高，十来二十层这样吧。还有一到晚上就开始亮几盏灯的北京电视塔，有一次从西三环骑自行车骑回来的时候在路边看到过。再远一点儿就该到东城区西城区那边了，那边都是些限高的老楼，望不到什么。东南角上是几栋在建的小高楼，看起来也像那种常见的居民楼，有五六个塔吊在忙活。往西边看是一些上世纪末本世纪初的居民楼，白色或者红色的，不算好看但叶不算难看，就是再平常不过的普通，“朴实无华”大概恰如其分。</p>
+<p>近一点的话是校内，静园十多栋灰扑扑的红砖小楼排列地整整齐齐。夏天的时候就掩映在高大的白桦树的绿叶中，冬天一来叶子都落了，它们才得以“重见天日”。静园大部分的楼都是红砖外露的，唯独有一栋刷了红色的墙漆，虽然好像是好看一些，但总有点儿格格不入，有点儿标新立异的刻意感。说到白桦，这种树可以长得很高，是北方常见的行道树。学校里的这些个白桦应该有点儿年头了，都有差不多十层楼高，早已经盖住了静园小楼的风头。冬天叶子落了的时候，也不是只有单调的树枝，还有些落叶落得慢的国槐（也许是这个名字，叶子小小的，在大北方自有一种娟秀感，颇得我意），仍举着细细小小的枯绿的叶子点缀其间，像是一束不起眼又增色不少的满天星。还有是未凋的红叶黄叶，有的在枝头翻卷了起来露出了它们颜色较淡的背面，看起来是温柔的粉色橘色在对抗凌冽的北风。还有柿子树顶上的火一般的小柿子，它们如灯笼般被高高擎起，它们是秋天残余的一点儿骄傲。</p>
+<p>“一年好景君须记，正是橙黄橘绿时”，我原本觉得橙黄橘绿不甚好看，但在灰扑扑的冬季，这一点亮色确实惹人怜爱。这是在来了北京之后我才体会到的。以往在四季常青的广东，冬天也不乏亮眼的颜色。就说花市上大盆大盆的橘色年桔，亮的炫目，但我以前只觉得俗气。也许是因为在温暖的南方，各种植物争相斗艳的颜色太多了，便不甚珍惜，只觉得素淡一些的来得清净，看得舒服。</p>
+<p>下午的时候太阳会从我很少涉足的更西边一点的地方把它的余晖投射过来，打在目之所及的各种建筑物的外墙上，在这种盛大明媚的光景下，你可以看到楼下的小花园里，三三两两的老人坐着聊天或是带孩子玩，一群鸽子从不知道哪里飞了来，在面前转了几圈又飞往了不知哪儿去。大和小、庄严和世俗在这个方寸之地交融缱卷。总能够从中感觉到一种安宁和完满。</p>
+<p>到了秋天的傍晚更是好看，现在是十二月初，如弓的上弦月正好挂在窗户外面正中间的天空上，光芒灿烂夺目。天气晴朗，万里无云，天幕就如同高级的丝绒幕布一般，闪烁着深蓝色的光泽。与地平线相衔接的地方是淡紫色的，接近地面又变成铁锈一般的红色，有时候会有一丝鱼肚白，颜色衔接各尽其妙，浑然天成。</p>
+<p>我记得刚来这儿上学的时候，我对北京的想象是大都市的感觉，这座城市的注脚应该是灯火通明的写字楼、车水马龙的大街和西装革履时尚潮流，结果一来就失望了。所谓的胡同破旧矮小，所谓的街道冷冷清清，附近的中关村也门可罗雀，倒是晚上小广场的大妈跳舞扭得起劲。不仅没有南方夜晚的繁华，反倒是稍显土气的大妈、钓鱼的老汉和古旧的老城区组成了我对这座城市的第一印象。</p>
+<p>第一次觉得有点不同大概是19年暑假，那时候我正从西安玩了一趟回来，发现感受一座城市的不错的办法是骑着单车走街串巷，看看风景看看人。于是在暑假和开学初相对较为空闲的一段时间内就经常骑着单车在大街小巷里转。第一次骑车没有敢跑太远，好像就从人大往西走，跑到万柳那一片去了，那里是较为大型的居民区，像家里小区一样整齐的楼栋、沿街的商铺和展示着水果的橱窗，或者是什么培训机构、还有街边一排停着的汽车，告诉我这里是很多人称之为“家”的地方。我记得那次望着一栋楼里温暖的黄灯，我在这千里之外的地方想起了自己远方的家，也是这样的方向，在自己的右前方一栋较高的楼宇，也是二三十层的样子，簇拥在一众居民楼之中，不远处也是一样的地下车库的入口。我登时有一种走在家里小区门口那条路上的感觉。</p>
+<p>感觉不错，那就再试试看。第二次出门骑车是因为听了来代课的电视剧导演老师“每个人都应该学点儿表演”的启发，对这种艺术形式产生了兴趣，于是想着去北京电影学院门口转悠一圈。就带着没什么电了的手机莽莽撞撞地出了门。结果刚好是导航导到了门口刚拍完张打卡的照片的时候没电关机了。好家伙，我还不知道怎么回去呢！于是硬着头皮按着残余的一点儿方向感摸索着骑回去。骑着觉得方向是对的，但没有走过的路还是让人难以心安。于是每经过一个公交站就看看能不能找到回学校的车。结果还真找到一辆，开心地很就上去了，结果公交卡过期了刷不了又不想下去，于是厚着脸皮白蹭了一趟公交回到学校，下车后好久脸都是红一阵白一阵的。回来以后痛定思痛，觉着一定要把路记熟啦，把手机的电充满啦，否则下次真的要靠走路走回来了，这可是不敢想象的工程量。</p>
+<p>再下一次应该就是骑得挺长的一次。那是看完了电视剧《贫嘴张大民的幸福生活》以后，对老北京的胡同文化有了一些些感触，就想着啥时候去胡同里转悠一圈。于是从学校出发，从海淀区一直往东南方向走，经过西城区跑东城区去了。在鼓楼附近的小广场绕了一下，又跑到南边的小胡同巷子里面兜兜转转。甚至专门往偏门的小巷子跑，走到一个“死胡同”又尴尬地原路走回来，最后竟然无心跑到了什刹海旁边。值得一提的是，这次出来玩基本没有开导航，凭着方向感从新街口骑到西直门，又从西直门外大街经过动物园北京展览馆一路回到海淀区，一共好像骑了差不多25公里吧。回来以后很开心洋洋洒洒写了好几千字的电视剧评论，也算是有所思有所得了。</p>
+<p>熟悉起来以后，胆子也大了起来，敢转悠老长的路程了。有一次在国家戏剧院看安娜卡列尼娜，不算特别好看，结束也不算太晚，想着反正也在海淀区干脆就骑车回学校，就从剧院往北骑经过北京西站，地下通道算是第一次见。接着拐上了西三环，结果刚开始没有方向感骑反了，后来看到路牌又兜回来，一路沿着什么航天桥紫竹桥苏州桥学院桥一路往北骑，到了万柳工人文化宫那里的时候居然又迷路了，骑上了北三环经过了北师大，感觉不太对就导了一下航才回到学校。那回下过雨，淅淅沥沥的北国秋雨下夜景真的挺好看的。宽阔的北三环人和车都稀少，冷风中感觉到的一丝机械感抑或是冷漠的疏离，对我来说恰好定义了某种探索的自由。</p>
+<p>夜晚的城市其实有很多精彩的细节。首先是经过西站北面的下沉通道时，特别的建筑结构吸引了我的注意，不知为什么感觉有点异域风情。还有护城河边冒雨钓鱼的大爷。感觉他们在自己的家乡，这座现代化的大城市，似乎竟有些显得格格不入。他们是疏懒的，没有四面八方涌入的年轻人那么激情；他们没有那么精致，一件颜色花哨式样普通的羽绒服旧就足以抵御北地酷寒的朔风。有角落就坐，有熟人就招呼，有水就垂下钓竿。他们似乎是普通的，但似乎又是适应性极强而悠然自得的。闲来垂钓，老来对茶，只要有人，生活就能有滋味。</p>
+<p>骑单车真的是我很喜爱的一种出行方式，速度和方向都完全依凭个人意志决定，还能看到很多生活的细节，触摸到城市的肌理。比起社畜感强的地铁更觉得可爱些。</p>
+<p>现在应该可以说对三环以内的西边的地区比较熟悉了.东城区、西城区和海淀区，来来回回总是绕不开这些地方。在广东的时候总是遗憾那里的历史韵味不够浓厚，北京可是扎扎实实的古城。没有去上海而是来了北京也许是对的，但谁又能说那放弃的另一种可能性没有其他的精彩呢。很多时候不止是因为这座城市的特色而感到喜欢，还有你在这里独特的经历和记忆让你生出了这种感情。就像所谓的乡土情结，并不一定是因为那个地方多吸引你，更多的是因为你生命中有足够长的一段时间与那片土地有着深厚的联系，你的记忆都来源于她，你的喜怒哀乐中也裹挟着她，那自然是会爱的。</p>
+<p>喜欢一座城市其实不一定说要多长的时间，情感与时间的长短无涉。到哪里就喜欢哪里，想到那么多年生于斯长于斯的广东，好像还有点儿惭愧。也许正是在这千里之外陌生的大北方，无根无基，无依无凭，但这份空白正好给了正风花雪月的我一个尝试与开拓可能性的空间。这份难得的自由可能是我喜欢这儿的原因之一吧。</p>
+<p>又想起以前读过的一篇名为《故乡在远方》的散文，作者曾经是一名从南方到东北的知青。她也讲到自己青年时期生活过的大东北比起江南的故乡似乎更让她魂牵梦萦。文字特别美，我看得蛮有共鸣，所以摘录在这里：</p>
+<blockquote>
+<p> 我究竟来自何方？<br><br><br>更多的时候，我会凝神默想着那遥远的冰雪之地，想起笼罩在雾霭中的幽蓝色的小兴安岭群山。踏着没膝深的雪地进山去，灌木林里尚未封冻的山泉一路叮咚欢歌，偶有暖泉顺坡溢流，便把低洼地的塔头墩子水晶一般封存，可窥见冰层下碧玉般的青草。山里无风的日子，静谧的柞树林中轻轻慢慢地飘着小清雪，落在头巾上，不化，一会儿就亮晶晶地披了一肩，是雪女王送你的礼物。若闭上眼睛，能听见雪花亲吻着树叶的声音。那是我21岁的生命中，第一次发现原来落雪有声，如桑蚕啜叶，婴童吮乳，声声有情。<br><br><br>那时住帐篷，炉筒一夜夜燃着粗壮的大木棒，隆隆如森林火车如林场的牵引拖拉机轰响，时时还夹着山脚下传来的咔咔冰崩声……山林里的早晨宁静而妩媚，坡上的林梢一抹玫瑰红，淡紫色的炊烟缠绵缭绕，门前的白雪地上，又印上了夜里悄悄来过的不知名的小动物一条条丝带般的脚印儿，细细辨认，如梅花如柳梢亦如一个个问号，清晰又杂乱地蜿蜒于雪原，消失于密林深处……<br><br><br>那些神秘的森林居民给予我无比的亲切感，曾使我觉得自己也是否应该从此留在这里。<br>小小的脚印沉浮于无边的雪野之上，恰如我们飘泊动荡的青春年华。</p>
+</blockquote>
+<blockquote>
+<p align="right">——引自 张抗抗《故乡在远方》</p>
+</blockquote>
+<p>既如此，暂且让我在这古都的臂弯里再做一回小孩子吧。</p>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <div class="declare">
+      <ul class="post-copyright">
+        <li>
+          <i class="ri-copyright-line"></i>
+          <strong>Copyright： </strong>
+          
+          Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
+          
+        </li>
+      </ul>
+    </div>
+    
+    <footer class="article-footer">
+       
+<div class="share-btn">
+      <span class="share-sns share-outer">
+        <i class="ri-share-forward-line"></i>
+        分享
+      </span>
+      <div class="share-wrap">
+        <i class="arrow"></i>
+        <div class="share-icons">
+          
+          <a class="weibo share-sns" href="javascript:;" data-type="weibo">
+            <i class="ri-weibo-fill"></i>
+          </a>
+          <a class="weixin share-sns wxFab" href="javascript:;" data-type="weixin">
+            <i class="ri-wechat-fill"></i>
+          </a>
+          <a class="qq share-sns" href="javascript:;" data-type="qq">
+            <i class="ri-qq-fill"></i>
+          </a>
+          <a class="douban share-sns" href="javascript:;" data-type="douban">
+            <i class="ri-douban-line"></i>
+          </a>
+          <!-- <a class="qzone share-sns" href="javascript:;" data-type="qzone">
+            <i class="icon icon-qzone"></i>
+          </a> -->
+          
+          <a class="facebook share-sns" href="javascript:;" data-type="facebook">
+            <i class="ri-facebook-circle-fill"></i>
+          </a>
+          <a class="twitter share-sns" href="javascript:;" data-type="twitter">
+            <i class="ri-twitter-fill"></i>
+          </a>
+          <a class="google share-sns" href="javascript:;" data-type="google">
+            <i class="ri-google-fill"></i>
+          </a>
+        </div>
+      </div>
+</div>
+
+<div class="wx-share-modal">
+    <a class="modal-close" href="javascript:;"><i class="ri-close-circle-line"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <div class="wx-qrcode">
+      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://hyqexploring.github.io/2020/10/04/title/category" alt="微信分享二维码">
+    </div>
+</div>
+
+<div id="share-mask"></div>  
+    </footer>
+  </div>
+
+   
+   
+<!-- valine评论 -->
+<div id="vcomments-box">
+  <div id="vcomments"></div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script>
+<script>
+  new Valine({
+    el: "#vcomments",
+    app_id: "",
+    app_key: "",
+    path: window.location.pathname,
+    avatar: "monsterid",
+    placeholder: "给我的文章加点评论吧~",
+    recordIP: true,
+  });
+  const infoEle = document.querySelector("#vcomments .info");
+  if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+    infoEle.childNodes.forEach(function (item) {
+      item.parentNode.removeChild(item);
+    });
+  }
+</script>
+<style>
+  #vcomments-box {
+    padding: 5px 30px;
+  }
+
+  @media screen and (max-width: 800px) {
+    #vcomments-box {
+      padding: 5px 0px;
+    }
+  }
+
+  #vcomments-box #vcomments {
+    background-color: #fff;
+  }
+
+  .v .vlist .vcard .vh {
+    padding-right: 20px;
+  }
+
+  .v .vlist .vcard {
+    padding-left: 10px;
+  }
+</style>
+
+ 
+     
+</article>
+
+</section>
+      <footer class="footer">
+  <div class="outer">
+    <ul>
+      <li>
+        Copyrights &copy;
+        2020
+        <i class="ri-heart-fill heart_icon"></i> Heyuqi
+      </li>
+    </ul>
+    <ul>
+      <li>
+        
+        
+        
+        Powered by <a href="https://hexo.io" target="_blank">Hexo</a>
+        <span class="division">|</span>
+        Theme - <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank">Ayer</a>
+        
+      </li>
+    </ul>
+    <ul>
+      <li>
+        
+        
+        <span>
+  <span><i class="ri-user-3-fill"></i>Visitors:<span id="busuanzi_value_site_uv"></span></s>
+  <span class="division">|</span>
+  <span><i class="ri-eye-fill"></i>Views:<span id="busuanzi_value_page_pv"></span></span>
+</span>
+        
+      </li>
+    </ul>
+    <ul>
+      
+    </ul>
+    <ul>
+      
+    </ul>
+    <ul>
+      <li>
+        <!-- cnzz统计 -->
+        
+        <script type="text/javascript" src=''></script>
+        
+      </li>
+    </ul>
+  </div>
+</footer>
+      <div class="float_btns">
+        <div class="totop" id="totop">
+  <i class="ri-arrow-up-line"></i>
+</div>
+
+<div class="todark" id="todark">
+  <i class="ri-moon-line"></i>
+</div>
+
+      </div>
+    </main>
+    <aside class="sidebar on">
+      <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+  <div class="logo">
+    <a href="/"><img src="/images/ayer-side.svg" alt="HYQ&#39;s Blog"></a>
+  </div>
+  
+  <ul class="nav nav-main">
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/categories/daily">日常</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/categories/study">学习</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/about">关于</a>
+    </li>
+    
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      
+      <a class="nav-item-link nav-item-search"  title="Search">
+        <i class="ri-search-line"></i>
+      </a>
+      
+      
+      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
+        <i class="ri-rss-line"></i>
+      </a>
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+    </aside>
+    <script>
+      if (window.matchMedia("(max-width: 768px)").matches) {
+        document.querySelector('.content').classList.remove('on');
+        document.querySelector('.sidebar').classList.remove('on');
+      }
+    </script>
+    <div id="mask"></div>
+
+<!-- #reward -->
+<div id="reward">
+  <span class="close"><i class="ri-close-line"></i></span>
+  <p class="reward-p"><i class="ri-cup-line"></i>请我喝杯咖啡吧~</p>
+  <div class="reward-box">
+    
+    
+  </div>
+</div>
+    
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+<!-- Tocbot -->
+
+
+<script src="/js/tocbot.min.js"></script>
+
+<script>
+  tocbot.init({
+    tocSelector: '.tocbot',
+    contentSelector: '.article-entry',
+    headingSelector: 'h1, h2, h3, h4, h5, h6',
+    hasInnerContainers: true,
+    scrollSmooth: true,
+    scrollContainer: 'main',
+    positionFixedSelector: '.tocbot',
+    positionFixedClass: 'is-position-fixed',
+    fixedSidebarOffset: 'auto'
+  });
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.css">
+<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/js/jquery.justifiedGallery.min.js"></script>
+
+<script src="/dist/main.js"></script>
+
+<!-- ImageViewer -->
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" style="display:none" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css">
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+
+<script>
+    function viewer_init() {
+        let pswpElement = document.querySelectorAll('.pswp')[0];
+        let $imgArr = document.querySelectorAll(('.article-entry img:not(.reward-img)'))
+
+        $imgArr.forEach(($em, i) => {
+            $em.onclick = () => {
+                // slider展开状态
+                // todo: 这样不好，后面改成状态
+                if (document.querySelector('.left-col.show')) return
+                let items = []
+                $imgArr.forEach(($em2, i2) => {
+                    let img = $em2.getAttribute('data-idx', i2)
+                    let src = $em2.getAttribute('data-target') || $em2.getAttribute('src')
+                    let title = $em2.getAttribute('alt')
+                    // 获得原图尺寸
+                    const image = new Image()
+                    image.src = src
+                    items.push({
+                        src: src,
+                        w: image.width || $em2.width,
+                        h: image.height || $em2.height,
+                        title: title
+                    })
+                })
+                var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, {
+                    index: parseInt(i)
+                });
+                gallery.init()
+            }
+        })
+    }
+    viewer_init()
+</script>
+
+<!-- MathJax -->
+
+<!-- Katex -->
+
+<!-- busuanzi  -->
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+<!-- ClickLove -->
+
+<!-- ClickBoom1 -->
+
+<!-- ClickBoom2 -->
+
+<!-- CodeCopy -->
+
+
+<link rel="stylesheet" href="/css/clipboard.css">
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  function wait(callback, seconds) {
+    var timelag = null;
+    timelag = window.setTimeout(callback, seconds);
+  }
+  !function (e, t, a) {
+    var initCopyCode = function(){
+      var copyHtml = '';
+      copyHtml += '<button class="btn-copy" data-clipboard-snippet="">';
+      copyHtml += '<i class="ri-file-copy-2-line"></i><span>COPY</span>';
+      copyHtml += '</button>';
+      $(".highlight .code pre").before(copyHtml);
+      $(".article pre code").before(copyHtml);
+      var clipboard = new ClipboardJS('.btn-copy', {
+        target: function(trigger) {
+          return trigger.nextElementSibling;
+        }
+      });
+      clipboard.on('success', function(e) {
+        let $btn = $(e.trigger);
+        $btn.addClass('copied');
+        let $icon = $($btn.find('i'));
+        $icon.removeClass('ri-file-copy-2-line');
+        $icon.addClass('ri-checkbox-circle-line');
+        let $span = $($btn.find('span'));
+        $span[0].innerText = 'COPIED';
+        
+        wait(function () { // 等待两秒钟后恢复
+          $icon.removeClass('ri-checkbox-circle-line');
+          $icon.addClass('ri-file-copy-2-line');
+          $span[0].innerText = 'COPY';
+        }, 2000);
+      });
+      clipboard.on('error', function(e) {
+        e.clearSelection();
+        let $btn = $(e.trigger);
+        $btn.addClass('copy-failed');
+        let $icon = $($btn.find('i'));
+        $icon.removeClass('ri-file-copy-2-line');
+        $icon.addClass('ri-time-line');
+        let $span = $($btn.find('span'));
+        $span[0].innerText = 'COPY FAILED';
+        
+        wait(function () { // 等待两秒钟后恢复
+          $icon.removeClass('ri-time-line');
+          $icon.addClass('ri-file-copy-2-line');
+          $span[0].innerText = 'COPY';
+        }, 2000);
+      });
+    }
+    initCopyCode();
+  }(window, document);
+</script>
+
+
+<!-- CanvasBackground -->
+
+
+    
+  </div>
+</body>
+
+</html>
