@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2020-10-05T10:58:07.708Z</updated>
+  <updated>2020-10-08T13:59:26.478Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>姑苏三日</title>
+    <link href="https://hyqexploring.github.io/2020/10/07/title/category/"/>
+    <id>https://hyqexploring.github.io/2020/10/07/title/category/</id>
+    <published>2020-10-07T06:22:01.000Z</published>
+    <updated>2020-10-08T13:59:26.478Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
+    
+    
+    <category term="travel" scheme="https://hyqexploring.github.io/tags/travel/"/>
+    
+  </entry>
   
   <entry>
     <title>测试文件2</title>
@@ -46,7 +71,7 @@
     <link href="https://hyqexploring.github.io/2020/10/04/title/category/"/>
     <id>https://hyqexploring.github.io/2020/10/04/title/category/</id>
     <published>2020-10-03T18:00:24.000Z</published>
-    <updated>2020-10-04T19:20:37.272Z</updated>
+    <updated>2020-10-08T13:58:27.409Z</updated>
     
     
       
@@ -59,8 +84,10 @@
     
     
     
-    <category term="-daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
+    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
     
+    
+    <category term="travel" scheme="https://hyqexploring.github.io/tags/travel/"/>
     
   </entry>
   
