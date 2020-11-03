@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2020-10-26T17:25:25.848Z</updated>
+  <updated>2020-11-03T08:10:59.484Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>大兴旧宫考古实践</title>
+    <link href="https://hyqexploring.github.io/daily/ArchaelogyExperience/"/>
+    <id>https://hyqexploring.github.io/daily/ArchaelogyExperience/</id>
+    <published>2020-11-03T07:48:26.000Z</published>
+    <updated>2020-11-03T08:10:59.484Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;大兴旧宫考古实践&quot;&gt;&lt;a href=&quot;#大兴旧宫考古实践&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
+    
+    
+    <category term="archaelogy" scheme="https://hyqexploring.github.io/tags/archaelogy/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《与光同尘——漫谈110年以来的中国电影》读书笔记</title>
-    <link href="https://hyqexploring.github.io/2020/10/27/study/"/>
-    <id>https://hyqexploring.github.io/2020/10/27/study/</id>
+    <link href="https://hyqexploring.github.io/study/yuguangtongchen/"/>
+    <id>https://hyqexploring.github.io/study/yuguangtongchen/</id>
     <published>2020-10-26T17:07:16.000Z</published>
-    <updated>2020-10-26T17:25:25.848Z</updated>
+    <updated>2020-10-26T17:30:04.000Z</updated>
     
     
       
@@ -43,8 +68,8 @@
   
   <entry>
     <title>纵使相逢应不识</title>
-    <link href="https://hyqexploring.github.io/2020/10/19/daily/"/>
-    <id>https://hyqexploring.github.io/2020/10/19/daily/</id>
+    <link href="https://hyqexploring.github.io/daily/TraceackOfChildhood/"/>
+    <id>https://hyqexploring.github.io/daily/TraceackOfChildhood/</id>
     <published>2020-10-18T16:32:52.000Z</published>
     <updated>2020-10-19T13:46:23.270Z</updated>
     
@@ -68,8 +93,8 @@
   
   <entry>
     <title>姑苏三日</title>
-    <link href="https://hyqexploring.github.io/2020/10/07/daily/"/>
-    <id>https://hyqexploring.github.io/2020/10/07/daily/</id>
+    <link href="https://hyqexploring.github.io/daily/TravelinSuzhou/"/>
+    <id>https://hyqexploring.github.io/daily/TravelinSuzhou/</id>
     <published>2020-10-07T06:22:01.000Z</published>
     <updated>2020-10-08T14:45:38.618Z</updated>
     
@@ -93,8 +118,8 @@
   
   <entry>
     <title>测试文件2</title>
-    <link href="https://hyqexploring.github.io/2020/10/05/study/"/>
-    <id>https://hyqexploring.github.io/2020/10/05/study/</id>
+    <link href="https://hyqexploring.github.io/study/test2/"/>
+    <id>https://hyqexploring.github.io/study/test2/</id>
     <published>2020-10-04T18:53:11.000Z</published>
     <updated>2020-10-05T10:58:07.708Z</updated>
     
@@ -118,8 +143,8 @@
   
   <entry>
     <title>测试文件</title>
-    <link href="https://hyqexploring.github.io/2020/10/04/daily/"/>
-    <id>https://hyqexploring.github.io/2020/10/04/daily/</id>
+    <link href="https://hyqexploring.github.io/daily/test/"/>
+    <id>https://hyqexploring.github.io/daily/test/</id>
     <published>2020-10-03T18:00:24.000Z</published>
     <updated>2020-10-08T13:58:27.409Z</updated>
     
