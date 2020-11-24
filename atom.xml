@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2020-11-07T04:58:33.137Z</updated>
+  <updated>2020-11-24T03:39:42.241Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -17,11 +17,66 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>对专业的一点反思</title>
+    <link href="https://hyqexploring.github.io/daily/IntrospectionofProfession/"/>
+    <id>https://hyqexploring.github.io/daily/IntrospectionofProfession/</id>
+    <published>2020-11-23T18:33:28.000Z</published>
+    <updated>2020-11-24T03:39:42.241Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;写在前面的碎碎念&quot;&gt;&lt;a href=&quot;#写在前面的碎碎念&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
+    
+    
+    <category term="journalism" scheme="https://hyqexploring.github.io/tags/journalism/"/>
+    
+    <category term="politics" scheme="https://hyqexploring.github.io/tags/politics/"/>
+    
+    <category term="inrrospection" scheme="https://hyqexploring.github.io/tags/inrrospection/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛浦梦回</title>
+    <link href="https://hyqexploring.github.io/daily/AllAboutLove/"/>
+    <id>https://hyqexploring.github.io/daily/AllAboutLove/</id>
+    <published>2020-11-23T16:06:00.000Z</published>
+    <updated>2020-11-24T03:37:45.639Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;待写，啊，待写。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
+    
+    
+    <category term="Random Thoughts" scheme="https://hyqexploring.github.io/tags/Random-Thoughts/"/>
+    
+  </entry>
+  
+  <entry>
     <title>（勉强算得上的）采访经验总结</title>
     <link href="https://hyqexploring.github.io/study/InterviewConclusion/"/>
     <id>https://hyqexploring.github.io/study/InterviewConclusion/</id>
     <published>2020-11-07T03:58:04.000Z</published>
-    <updated>2020-11-07T04:58:33.137Z</updated>
+    <updated>2020-11-24T03:23:44.551Z</updated>
     
     
       
@@ -37,7 +92,7 @@
     <category term="study" scheme="https://hyqexploring.github.io/categories/study/"/>
     
     
-    <category term="interview" scheme="https://hyqexploring.github.io/tags/interview/"/>
+    <category term="journalism" scheme="https://hyqexploring.github.io/tags/journalism/"/>
     
   </entry>
   
@@ -46,7 +101,7 @@
     <link href="https://hyqexploring.github.io/daily/ArchaelogyExperience/"/>
     <id>https://hyqexploring.github.io/daily/ArchaelogyExperience/</id>
     <published>2020-11-03T07:48:26.000Z</published>
-    <updated>2020-11-08T03:52:16.400Z</updated>
+    <updated>2020-11-08T08:35:49.380Z</updated>
     
     
       
@@ -93,8 +148,8 @@
   
   <entry>
     <title>纵使相逢应不识</title>
-    <link href="https://hyqexploring.github.io/daily/TraceackOfChildhood/"/>
-    <id>https://hyqexploring.github.io/daily/TraceackOfChildhood/</id>
+    <link href="https://hyqexploring.github.io/daily/ReminiscenceOfChildhood/"/>
+    <id>https://hyqexploring.github.io/daily/ReminiscenceOfChildhood/</id>
     <published>2020-10-18T16:32:52.000Z</published>
     <updated>2020-11-08T03:48:07.758Z</updated>
     
@@ -115,7 +170,7 @@
     <link href="https://hyqexploring.github.io/daily/TravelinSuzhou/"/>
     <id>https://hyqexploring.github.io/daily/TravelinSuzhou/</id>
     <published>2020-10-07T06:22:01.000Z</published>
-    <updated>2020-10-08T14:45:38.618Z</updated>
+    <updated>2020-11-24T02:46:58.582Z</updated>
     
     
       
