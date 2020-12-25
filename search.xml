@@ -441,75 +441,6 @@
   /* .nanhai{position: absolute; left: 10%; bottom: 0; width: 4%; border:1px solid #333;} */
 </style>
 <body>
-<!-- 祝大家圣诞快乐！ -->
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
-<html>
-<head>
-<title>祝大家圣诞快乐!</title>
-<meta charset="utf-8">
-<style>
-html, body { width: 100%; height: 100%; margin: 0; padding: 0; border: 0; }
-div { margin: 0; padding: 0; border: 0; }
-.nav { 
-		position: absolute; 
-		top: 0; 
-				left: 0; 
-				width: 100%; 
-				height: 27px; 
-				background-color: white; 
-				color: black; 
-				text-align: center; 
-				line-height: 25px;
-			}
-			a { color: black; text-decoration: none; border-bottom: 1px dashed black; }
-			a:hover { border-bottom: 1px solid red; }
-			.previous { float: left; margin-left: 10px; }
-			.next { float: right; margin-right: 10px; }		
-			.green { color: green; }
-			.red { color: red; }
-			textarea { width: 100%; height: 100%; border: 0; padding: 0; margin: 0; padding-bottom: 20px; }
-			.block-outer { float: left; width: 22%; height: 100%; padding: 5px; border-left: 1px solid black; margin: 30px 3px 3px 3px; }
-			.block-inner { height: 68%; }
-			.one { border: 0; }
-</style>
-	</head>
-	<body marginwidth="0" marginheight="0">
-	<canvas id="c" height="356" width="446">
-<script>
-			var collapsed = true;
-			function toggle() {
-				var fs = top.document.getElementsByTagName('frameset')[0];
-				var f = fs.getElementsByTagName('frame');
-				if (collapsed) {
-					fs.rows = '250px,*';
-					// enable resizing of frames in firefox/opera
-					fs.noResize = false;
-					f[0].noResize = false;
-					f[1].noResize = false;
-				} else {
-					fs.rows = '30px,*';
-					// disable resizing of frames in firefox/opera
-					fs.noResize = true;
-					f[0].noResize = true;
-					f[1].noResize = true;
-				}
-				collapsed = !collapsed;
-			}
-</script>
-<script>
-			var b = document.body;
-			var c = document.getElementsByTagName('canvas')[0];
-			var a = c.getContext('2d');
-			document.body.clientWidth; // fix bug in chrome.
-</script>
-<script>
-// start of submission //
-M=Math;Q=M.random;J=[];U=16;T=M.sin;E=M.sqrt;for(O=k=0;x=z=j=i=k<200;)with(M[k]=k?c.cloneNode(0):c){width=height=k?32:W=446;with(getContext('2d'))if(k>10|!k)for(font='60px Impact',V='rgba(';I=i*U,fillStyle=k?k==13?V+'205,205,215,.15)':V+(147+I)+','+(k%2?128+I:0)+','+I+',.5)':'#cca',i<7;)beginPath(fill(arc(U-i/3,24-i/2,k==13?4-(i++)/2:8-i++,0,M.PI*2,1)));else for(;x=T(i),y=Q()*2-1,D=x*x+y*y,B=E(D-x/.9-1.5*y+1),R=67*(B+1)*(L=k/9+.8)>>1,i++<W;)if(D<1)beginPath(strokeStyle=V+R+','+(R+B*L>>0)+',40,.1)'),moveTo(U+x*8,U+y*8),lineTo(U+x*U,U+y*U),stroke();for(y=H=k+E(k++)*25,R=Q()*W;P=3,j<H;)J[O++]=[x+=T(R)*P+Q()*6-3,y+=Q()*U-8,z+=T(R-11)*P+Q()*6-3,j/H*20+((j+=U)>H&Q()>.8?Q(P=9)*4:0)>>1]}setInterval(function G(m,l){A=T(D-11);if(l)return(m[2]-l[2])*A+(l[0]-m[0])*T(D);a.clearRect(0,0,W,W);J.sort(G);for(i=0;L=J[i++];a.drawImage(M[L[3]+1],207+L[0]*A+L[2]*T(D)>>0,L[1]>>1)){if(i==2e3)a.fillText('姐姐们节日快乐!',U,345);if(!(i%7))a.drawImage(M[13],((157*(i*i)+T(D*5+i*i)*5)%W)>>0,((113*i+(D*i)/60)%(290+i/99))>>0);}D+=.02},1)
-// end of submission //
-</script>
-</canvas></body>
-</html>
-<!-- 祝大家圣诞快乐！ -->
 <div class="big-title">在刀尖上起舞<br>医务人员职业暴露问题</div>
 <div class="pc para sub-title">
   <p><i>“职业暴露谨提防，被染难辩心冤枉。”<br>
@@ -637,9 +568,9 @@ M=Math;Q=M.random;J=[];U=16;T=M.sin;E=M.sqrt;for(O=k=0;x=z=j=i=k<200;)with(M[k]=
 <center><h>医者谁来医？</h></center>
  <p>职业暴露发生之后的应急处理方式，是每位医护人员的必修课。</p>
  <p>在多种类型的职业暴露中，HIV职业暴露是公众讨论热度相比较高的话题。根据卫生部2004年印发的《医务人员艾滋病病毒职业暴露防护工作指导原则》，HIV职业暴露一旦发生，医疗卫生机构应当对医护人员的暴露级别和暴露源的病毒载量水平进行评估，再据此确定用药方案。</p>
-  <p>职业暴露发生后的应急措施，是捍卫医疗工作者生命健康的最后一道防线；而完善职业暴露相关的立法保护，才能从根本上兜住医护人员的正当权利。</p>
-  <p>然而，目前我国医护人员职业暴露法律保护的立法现状尚显空白。早在2009年9月，卫生部便发布了《血源性病原体职业接触防护导则》，提出将医疗人员针刺暴露损伤造成的疾病作为职业病来预防和治疗的建议，但《导则》仅是推荐性标准和部门规章，并非法律性文件和强制性要求。</p>
-  <p>十几年来，我国《工伤保险条例》经过数次改革，在工伤认定方面划定了详尽的治疗目录及药品目录。可惜的是，医护人员遭受的职业暴露问题仍未能被考虑在内——除医护人员在职业活动中受到的辐射损伤外，其他情形下的职业暴露尚未被归于职业病类别或工伤类别。这让医护人员在临床诊疗、护理病患的过程中权利难以得到保障，职业暴露带来的损害同样难以得到救济。</p>
+ <p>职业暴露发生后的应急措施，是捍卫医疗工作者生命健康的最后一道防线；而完善职业暴露相关的立法保护，才能从根本上兜住医护人员的正当权利。</p>
+ <p>然而，目前我国医护人员职业暴露法律保护的立法现状尚显空白。早在2009年9月，卫生部便发布了《血源性病原体职业接触防护导则》，提出将医疗人员针刺暴露损伤造成的疾病作为职业病来预防和治疗的建议，但《导则》仅是推荐性标准和部门规章，并非法律性文件和强制性要求。</p>
+ <p>十几年来，我国《工伤保险条例》经过数次改革，在工伤认定方面划定了详尽的治疗目录及药品目录。可惜的是，医护人员遭受的职业暴露问题仍未能被考虑在内——除医护人员在职业活动中受到的辐射损伤外，其他情形下的职业暴露尚未被归于职业病类别或工伤类别。这让医护人员在临床诊疗、护理病患的过程中权利难以得到保障，职业暴露带来的损害同样难以得到救济。</p>
   <p>2019年底爆发的新冠肺炎疫情在客观上推动了我国公共卫生事业的发展。2020年全国两会期间，全国人大代表、安徽医科大学第一附属医院教授刘荣玉建议，“面临像SARS、COVID-19这种感染风险特别高的疫情时，在诊疗过程中因职业暴露感染疾病应属于意外伤害，应认定为工伤。”与此同时，她提出，医务人员感染性职业暴露疾病如AIDS、乙肝、丙肝等，也应列入职业病分类目录和工伤认定范围。</p>
   <p>法律体系的完善并非一朝一夕之事，填补职业暴露相关的立法保护的空白，终究是个漫长、但必须不断推进的过程。</p>
 <div class="para"> 
@@ -662,7 +593,8 @@ Shi Y, Xue H, Ma Y, et al，Prevalence of occupational exposure and its influenc
     指导老师 方洁<br>
   </p>
 </div>
-</div></div></body></html>
+</div></div></body>
+</html>
 ]]></content>
   </entry>
   <entry>
@@ -1421,5 +1353,825 @@ A不存在——不存在的是谁？——（不存在的是）A<br>
       <tags>
         <tag>philosophy</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>copy</title>
+    <url>/uncategorized/copy/</url>
+    <content><![CDATA[<!DOCTYPE HTML>
+<html>
+<head>	
+	<title>中国的博物馆 300000:1</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="telephone=no" name="format-detection">
+    <meta content="email=no" name="format-detection">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+  <link rel="stylesheet" type="text/css" href="locateMap/leaflet.css">
+    <script src="js/d3.min.js" charset="utf-8"></script>
+	<script src="js/jquery-1.7.2.min.js" language="javascript"></script>
+	<script src="js/jquery.easing.1.3.js" language="javascript"></script>
+	<script src="js/jquery-1.12.4.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/draggable_fix.js"></script>
+  <script type="text/javascript" src="locateMap/leaflet.js"></script>
+  <script type="text/javascript" src="locateMap/leaflet.ChineseTmsProviders.js"></script>
+  <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=o3gPPvOqcPL5dx57zT8LnGbOf5UKeF29"></script>
+</head>
+<style>
+	body{margin: 0; background-color: #000; color: #cdcdcd;  font-family: arial,"Microsoft YaHei","微软雅黑"; background-image: url("top1.jpg"); background-size: 100% auto; background-repeat:no-repeat; }
+  a{}
+  .pc{display: block;}
+  .mobile{display: none}
+  .tag{position: absolute; z-index: 9999; font-size: 14px; color: #fff; top:0px; left: 0px; background-color: rgba(0,0,0,0.3); padding: 10px; border-radius: 10px; display: none;}
+  .map-wrap{position: relative; overflow: hidden; }
+  .map{position: absolute;}
+  .map-us{left: 50%; }
+  .para{position: relative; }
+  .para p{width: 980px; margin: 0 auto; line-height: 28px; padding-bottom: 40px}
+  .splitline {width:980px; height: 1px; background: #666; margin: 0 auto; margin-bottom:20px; }
+  .split{height: 30px; width: 100%; background-repeat: no-repeat; text-align: center; margin-bottom: 50px;}
+  .big-title{height: 150px; font-size: 60px; line-height: 72px; color: #fff; width: 980px; margin: 0 auto; padding-top: 160px; font-weight: bold; }
+  .sub-title p{width: 980px; padding-bottom: 40px; padding-top: 20px; color: #cdcdcd; }
+  .cx-logo{position: absolute; top:0px; left: 0px}
+  .cloud{position: relative; width: 980px; height: 550px; margin: 0 auto; padding-bottom: 40px}
+  .cloud1{position: absolute; top: 0px}
+  .cloud2{position: absolute; top: 0px; display: none}
+  .map-caption{position: relative; width: 980px; margin: 0 auto; height: 150px }
+  .map-caption-cn{width: 490px; text-align: right; float: left; border-right: #666 1px solid}
+  .map-caption-cn p{padding-right: 20px; font-size: 12px; color: #787878}
+  .map-caption-cn p b{color:#9076a6; font-size: 18px; }
+  .map-caption-us{width: 489px; text-align: left; float: left;}
+  .map-caption-us p{padding-left: 20px; font-size: 12px; color: #787878}
+  .map-caption-us p b{color:#6785a4; font-size: 18px; }
+  .data{font-size: 12px; color: #5b5b5b; margin: 0; padding: 0; text-align: center;}
+  .reference{font-size: 14px; line-height: 18px; color: #666}
+  .nanhai{position: absolute; left: 10%; bottom: 0; width: 4%; border:1px solid #333;}
+  .leaflet-popup-pane .leaflet-popup-content-wrapper{
+      width: 100px;
+      height: 100px;
+      border-radius: 100%;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+      background: #fff;
+      color: #333;
+      border: 4px solid #786890;
+    }
+    .popup1 .leaflet-popup-content-wrapper{
+      max-width: 120px;
+      padding: 10px;
+      height: auto;
+      border-radius: 20px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+      background: #fff;
+      color: #333;
+      border: 4px solid #786890;
+    }
+    .popup2 .leaflet-popup-content-wrapper{
+      max-width: 120px;
+      padding: 10px;
+      height: auto;
+      border-radius: 20px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+      background: #fff;
+      color: #333;
+      border: 4px solid #72abc6;
+    }
+    .leaflet-popup-pane .leaflet-popup-close-button{
+      display: none;
+    }
+    .leaflet-popup-pane .leaflet-popup-content {
+      /*width: 90px;*/
+      /*height: 30px;*/
+      text-align: center;
+      margin: 0px;
+    }
+    .popup0 .leaflet-popup-content {
+      width: 90px;
+      height: 30px;
+      text-align: center;
+      padding: 20px auto;
+      margin: 35px 5px;
+    }
+    .leaflet-popup-pane .leaflet-popup-tip-container {
+      display: none;
+    }
+    .leaflet-control-attribution {
+      display: none;
+    }
+    #locateBtn {
+      width: 40px;
+      height: 40px;
+      position: fixed;
+      background: #786890;
+      background-image: url("locateMap/locate-icon_w.png");
+      background-size: 20px  25px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      bottom: 8%;
+      left: 50%;
+      margin-left: -20px;
+      margin-bottom: 10px;
+      cursor: pointer;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+      border-radius: 100%;
+      border: 2px solid #fff;
+      z-index: 100;
+    }
+    #mapLegend {
+      width: 76%;
+      height: 36px;
+      position: fixed;
+      background: rgba(255,255,255,.2);
+      bottom: 8%;
+      left: 12%;
+      border-radius: 16px;
+      /*border: 2px solid #fff;*/
+      margin-bottom: 12px;
+      z-index: 99;
+    }
+    #mapLegend span {
+      line-height: 36px;
+      font-weight: normal;
+      font-size: 12px;
+      color: #fff;
+    }
+    #mapLegend .legend1 img, #mapLegend .legend1 span {
+      float: left;
+    }
+    #mapLegend .legend2 img, #mapLegend .legend2 span {
+      float: right;
+    }
+    #mapLegend img {
+      width: 24px;
+      margin: 6px 10px;
+    }
+    #closeBtn {
+      width: 36px;
+      height: 36px;
+      position: fixed;
+      background: #fff;
+      background-image: url("locateMap/c_icon.png");
+      background-size: 22px  22px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      cursor: pointer;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+      border-radius: 100%;
+      top: 4%;
+      right: 4%;
+    }
+    .leaflet-container {
+      background: #000;
+    }
+  @media (max-width: 640px){
+    .tag{font-size: 12px;padding: 5px;}
+    .pc{display: none;}
+    .mobile{display: block}
+    body{background-size: auto 480px; background-position: -320px 0; }
+    .big-title{width: 90%; font-size: 38px; line-height: 48px; padding-top: 60px; padding-left: 3%; height: auto}
+    .para p{width: 90%; padding-left: 5%; padding-right: 5%}
+    .splitline {width:90%; height: 1px; background: #666; margin: 0 auto; margin-bottom:20px; }
+    .sub-title p{width: 90%; padding-left: 5%; font-size: 14px; line-height: 24px; padding-bottom: 20px}
+    .cloud{width: 100%;}
+    .map-caption{width: 100%; position: absolute;}
+    .map-caption-cn{width: 90%; text-align: left; padding-left: 5%; border-right: 0px}
+    .map-caption-us{width: 90%; text-align: left;}
+    .map-us{left: 0%; background-image: url(map-bg-us.jpg); background-size:100% auto; background-repeat: no-repeat; background-position: 0 98px }
+    .map-cn{left: 0%; background-image: url(map-bg-cn.jpg); background-size:100% auto; background-repeat: no-repeat; background-position: 0 98px }
+    .nanhai{position: absolute; left: 5%; width: 40px;}
+    .map-caption-cn p{font-size: 10px}
+    .map-caption-us p{font-size: 10px}
+    .cloud{height: 260px}
+    p.data{font-size: 12px; line-height: 16px; text-align: left;}
+    .reference p{font-size: 12px; line-height: 18px;} 
+<p>}<br />
+</style><p></p>
+<body>
+<div class="cx-logo"><a href="http://datanews.caixin.com"><img src="/uncategorized/copy/caixin.png"></a></div>
+<div class="big-title">中国的博物馆<br>300000:1</div>
+<div class="pc para sub-title">
+  <p><i>至2015年末，中国约每30万人拥有1家博物馆<br>
+美国博物馆人群覆盖率高于中国，但免费博物馆比例低于中国<br>
+中国博物馆由东向西逐渐减少，主题多围绕文化、民俗、艺术，与抗战有关的革命、旧址、故居、民族、纪念类的博物馆常见
+</i></p>
+</div>
+ <div id="map-banner" class="map-banner pc" style="width: 200px;position: absolute; top:20px; right: 20px"><img src="/uncategorized/copy/museum_banner.png" style="width:100%;"></div>
+<div class="mobile para sub-title">
+  <p><i>5月18日是国际博物馆日，根据国家文物局近日公布的消息，全国很多博物馆采用免费开放、举办纪念展的方式来迎接国际博物馆日。各类展品、讲座正在等待博物馆爱好者们的光临，你身边有哪些博物馆呢？点击放大镜即可显示你周围三公里范围内的博物馆。
+</i></p>
+</div>
+<div id="map-banner" class="map-banner mobile" style="width: 90%; margin-left: 5%; margin-right: 5%; margin-bottom: 40px;"><img src="/uncategorized/copy/museum_banner.png" style="width:100%;"></div>
+<div class="split mobile"><img src="/uncategorized/copy/split.png"></div>
+<div class="para mobile">
+  <p>中国有多少博物馆？2016年底，国家文物局发布《2015年度全国博物馆名录》（以下简称《名录》），这份全国博物馆的“户口簿”显示：截至2015年末，中国内地31个省市自治区共有4626家博物馆，约每30万人拥有1家博物馆。
+  </p>
+</div>
+<div class="map-wrap">
+  <div class="map map-cn"></div>
+  <div class="tag tag-cn"></div>
+  <div class="nanhai"><img src="/uncategorized/copy/nanhai.jpg" width="100%"></div>
+  <div class="map map-us"></div>
+  <div class="tag tag-us"></div>
+</div>
+<div class="map-caption">
+  <div class="map-caption-cn">
+    <p><b>中国博物馆数量由东向西逐渐减少</b></p>
+    <p>亮点代表博物馆，地图板块由深至浅表示人均地区生产总值由高到低</p>
+    <p>数据来源：中国国家统计局、国家文物局《2015年度<br>全国博物馆名录》、百度地图Geocoding API</p>
+  </div>
+  <div class="map-caption-us">
+    <p><b>美国东北部是博物馆最密集的区域</b>
+    </p><p>亮点代表博物馆，地图板块由深至浅表示人均州内生产总值由高到低</p>
+    <p>数据来源：U.S. Government Revenue、美国博物馆和图书馆<br>服务学会（IMLS）2015财年第3季度博物馆全集数据</p>
+  </div>
+</div>
+<div class="para mobile"><p> </p></div>
+<div class="para pc">
+  <p>中国有多少博物馆？2016年底，国家文物局发布《2015年度全国博物馆名录》（以下简称《名录》），这份全国博物馆的“户口簿”显示：截至2015年末，中国内地31个省市自治区共有4626家博物馆，约每30万人拥有1家博物馆。
+  </p>
+</div>
+<div class="para">
+  <p>财新记者通过调用百度地理数据查询接口获取国内所有博物馆的经纬度，发现：胡焕庸线再度显现，博物馆数量遵循从东部向西部逐渐减少的规律。如果你认为在中国经济越发达的地区博物馆人均覆盖率越高，那么事实不全然如此。相关分析显示两个指标之间存在微弱的正相关关系，在经济越发达地区，博物馆数量可能就越多，相对地，1家博物馆的覆盖人群就越少。但是也存在着特例：比如天津市2015年的人均地区生产总值约为10.7万元，排在全国首位，但是平均27万人拥有1座博物馆，排名全国第12位。黑龙江省同年的人均地区生产总值约为3.9万元，在全国处于中游水平，但平均19万人拥有一座博物馆，排名全国第7位。</p>
+  <p>内蒙古有198个博物馆，平均每12.7万人拥有1家博物馆，居全国之首。河北仅有100个博物馆，平均每74.3万人拥有1家博物馆。</p>
+  <p>
+  <img src="/uncategorized/copy/pic.png" width="100%" style="border:#eee 1px solid" class="pc">
+  <img src="/uncategorized/copy/pic-m.png" width="100%" style="border:#eee 1px solid" class="mobile">
+  </p>
+  <p>30万比1是什么概念？美国博物馆和图书馆服务学会（IMLS）在2017年2月更新的数据显示：截至2015财年第3季度，美国共有33072家博物馆，每9378位美国人就拥有1家博物馆，美国的博物馆人均覆盖率（博物馆人均覆盖率=博物馆数量/人口数量）约为中国的31倍。</p>
+  <p>美国博物馆文化由来已久，《华盛顿邮报》在2014年曾称美国的博物馆数量已超过全美星巴克和麦当劳门店数量的总和。</p>
+  <p>美国的博物馆主要分布在东西海岸，中部偏少，其中，美国东北部的博物馆非常密集，这一区域包含华盛顿哥伦比亚特区、纽约州，它们分别是美国的政治、经济中心。与中国的情况相仿，美国的人均州内生产总值和博物馆人均覆盖率之间保持中度的正相关关系，如果你希望去美国领略博物馆文化，那么不妨从一个经济发达地区开始你的博物馆文化之旅。</p>
+</div>
+<div class="split"><img src="/uncategorized/copy/split.png"></div>
+<div class="para">
+  <p>除却数量和分布格局的差异，中美两国不同的文化、历史造就不同的博物馆特色，从博物馆的名称就能够感知到这样的差异。财新记者对中美两国的博物馆名称进行文本分析发现，在中国的博物馆名称构成词汇中，共有27个词出现频率超过30次。除了通常意义上的“博物馆”，“纪念馆”、“陈列馆”数量也很多，而且主题多围绕文化、民俗、艺术。由于抗战时期对中华民族历史有重要影响，与之相关的革命、旧址、故居、民族、烈士等博物馆类型也比较常见。</p>
+  <p>美国的博物馆名称构成词汇中，取出现频数超过400次的词，可以发现美国的博物馆定义相对宽泛，除了中规中矩的museum（博物馆）之外，society（学会）、center（中心）、association（联盟）、gallery（画廊）、hall（大厅）等也都被纳入统计范畴，且以historic（历史的）作为前缀的词出现次数相当高。在数以万计的博物馆中，art（艺术）类型博物馆也占有较大比重，且有很多专门为children（儿童）设立的博物馆。</p>
+</div>
+<div class="cloud pc">
+  <img class="cloud1" src="/uncategorized/copy/cloud-china.png" width="100%">
+  <img class="cloud2" src="/uncategorized/copy/cloud-us.png" width="100%">
+</div>
+<div class="cloud mobile">
+  <img class="cloud1" src="/uncategorized/copy/cloud-china-mobile.png" width="100%">
+  <img class="cloud2" src="/uncategorized/copy/cloud-us-mobile.png" width="100%">
+</div>
+<div class="para">
+<p class="data">数据来源：国家文物局《2015年度全国博物馆名录》、美国博物馆和图书馆服务学会（IMLS）2015财年第3季度博物馆全集数据</p>
+</div>
+<div class="split"><img src="/uncategorized/copy/split.png"></div>
+<div class="para"> 
+  <p>全世界的博物馆爱好者都希望博物馆能又棒又便宜。不花钱这件事在中国实现度非常高，中国的免费博物馆比例达86.2%，在北京，国家博物馆、首都博物馆、中国美术馆等大量知名博物馆都免费开放。黑龙江、江西、海南三省的博物馆全部免费开放。中国的大多数博物馆为国有（76.4%），作为公共文化服务机构，政府部门对博物馆提供财政支持，且有《公共文化服务保障法》、《国家文物事业发展“十三五”规划》等文件保证免费博物馆的正常运营。相应的，民营博物馆的存在感非常低。</p>
+  <p>美国的博物馆数量约为中国的7倍，根据美国博物馆协会在2013年的研究，美国免费博物馆的比例约等于无收入博物馆所占比例。通过推算，截至2015财年三季度，美国的免费博物馆只有三分之一（34%）。《华盛顿邮报》的报道披露：被纳入统计的美国博物馆中，大多数博物馆的规模都非常小，很多博物馆类似于“家庭经营店”且收入甚微。IMLS的博物馆营收数据显示：约34%的博物馆并没有收入，同时有约10%的博物馆2015财年三季度收入在100万美元以上。</p>
+  <p>位于营收贫富区间两端的美国博物馆究竟有何特征呢？财新记者进一步对这两类博物馆名称进行分词处理，发现无收入的博物馆主要是研究学会和历史类博物馆，且这些机构的立足点非常多样，比如研究某个county（郡县）的历史、某位人物的生平，或者关注特定的事物，如：lighthouse（灯塔）、fire（消防）等。</p>
+  <p>处于营收高端组的博物馆中有国人熟悉的Metropolitan Museum of Art（大都会博物馆）、Museum of Modern Art（现代艺术博物馆），以大都会博物馆为例，IMLS的数据显示2015财年三季度，大都会博物馆的营收约为15亿美元，大约相当于腾讯同季度收入的三分之一，相当可观。电影《博物馆奇妙夜》（Night at the Museum）的拍摄地美国自然历史博物馆（American Museum of Natural History）同样处于这一组别。</p>
+  <p>处于高营收区间的博物馆多为艺术类，以gallery（画廊）和art（艺术）居多，且部分university（大学）博物馆收入也比较高，比如：Harvard University Botanical Museum（哈佛大学植物博物馆）、George Washington University Museum（华盛顿大学博物馆）。</p>
+  <p class="pc"><img src="/uncategorized/copy/us-income.jpg" width="100%"></p>
+  <p class="mobile"><img src="/uncategorized/copy/us-income-mobile.jpg" width="100%"></p>
+  <p>对于今后中国博物馆的发展，《国家文物事业发展“十三五”规划》中已经布置了“全面提升博物馆发展质量、多措并举让文物活起来”的任务，规划中进一步做出展望：到2020年，全国博物馆公共文化服务人群覆盖率达到每25万人拥有1家博物馆，观众人数达到8亿人次/年。</p>
+</div>
+  <div class="split"><img src="/uncategorized/copy/split.png"></div>
+<div class="para reference"> 
+  <p>注：分词方面，中文使用jieba分词组件，英文使用NLTK模块，中英分词中均过滤了人工指定停用词。</p>
+  <p>补充数据来源：<br>
+  “There are more museums in the U.S. than there are Starbucks and McDonalds combined”. The Washington Post, by Christopher Ingraham, 2014-7-13.<br>
+  “Annual Condition of Museums and the Economy Study”. American Alliance of Museums, 2013.<br>
+  “Gross State Product of Fiscal Year 2015”. U.S. Government Revenue.<br>
+  “States and Outlying Areas of the United States”. U.S. Government Printing Office, 1970.<br>
+  “Museum Universe Data File Documentation”. Institute of Museum and Library Services, Nov, 2015.<br>
+  《李克强：将更多博物馆纳入财政支持的免费开放范围》，新华社，2016年2月24日。<br>
+  《腾讯控股有限公司2015年报》，腾讯网。<br>
+  《文物事业发展“十三五”规划发布 每25万人将有一家博物馆》，《人民日报》，2017年2月22日。</p>
+</div>
+<div class="splitline" style="border-top: 1px solid #666;"></div>
+<div class="para" style="color:#666; font-size: 14px;">
+  <p>
+    记者：罗晨（实习）<br>
+    设计开发：韦梦 郑蔚琦（实习）<br>
+    监制：黄晨<br>
+    财新数据可视化实验室出品<br>
+  </p>
+</div>
+<div id="map-btn" style="position: fixed; top: 10px; right: 10px; width: 10%; display: none;">
+  <img src="/uncategorized/copy/museum-btn.png" style="width: 100%;">
+</div>
+<div id="mapContainer" style="display: none;width: 100%; height: 100%; position: fixed; top:0; left: 0;background: rgba(255,255,255,.2);">
+  <div id="map" style="width: 86%; height:86%; border-radius: 16px; position: fixed; top:7%; left:7%; "></div>
+</div>
+<div id="mapLegend" style="display: none;">
+  <div class="legend1"><img src="/uncategorized/copy/museum-icon.png"><span>免费博物馆</span></div>
+  <div class="legend2"><img src="/uncategorized/copy/museum-icon2.png"><span>收费博物馆</span></div>
+</div>
+  <div id="locateBtn" style="display: none;"></div>
+<div id="closeBtn" style="display: none;"></div>
+</body>
+<script type="text/javascript">
+//$(".map").draggable();
+/*$(".map").bind("click",function(){
+	$(".map").css('-webkit-transform','scale(8)')
+})*/	 
+
+function cssPxToInt(str){
+    var tmp=str.split("px");
+    var tmp1=parseFloat(tmp[0]);
+    return tmp1;
+}
+
+var width = $(window).width(),
+  height = width>640?width*0.33:width*0.67;
+
+var ratio = width/1900;
+
+var mobileTop=100;
+
+$(".map-wrap").css("height",(width>640?height:(height+mobileTop)*2)+"px").css("width",width+"px")
+$(".map-us").css("top",(width>640?0:height+mobileTop)+"px")
+if(width<640){
+  console.log($(".sub-title").css("height"));
+  $(".map-caption-cn").css("margin-top",-2*(height+mobileTop)+"px");
+  $(".map-caption-us").css("margin-top",-(height+mobileTop)+"px");
+  $(".nanhai").css("bottom",height+mobileTop+"px")
+}
+
+
+var cloudShow = 1;
+var slideShow = setInterval(function(){
+  if(cloudShow%2==1){
+    $(".cloud2").fadeIn(1000);
+    $(".cloud1").fadeOut(1000);
+  }
+  else{
+    $(".cloud2").fadeOut(1000);
+    $(".cloud1").fadeIn(1000);
+  }
+  cloudShow++;
+
+},3000);
+
+drawChina();
+function drawChina(){
+  var svg = d3.select(".map-cn").append("svg")
+  .attr("width", width>640?width/2:width)
+  .attr("height", width>640?height:height+mobileTop)
+  .append("g")
+
+var projection = d3.geo.mercator()
+    .center([104.2, 38.2])
+    .scale((width>640?1:2)*780*ratio)  //858
+    .translate([width>640?width/4:width/2,width>640?height/2:height/2+mobileTop]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+//==颜色取值==//
+var light = d3.rgb(149,102,182);  
+var dark = d3.rgb(41,44,91);      
+  
+var color = d3.interpolate(light,dark);  
+
+var linear = d3.scale.linear()  
+        .domain([2.6, 10.8])  
+        .range([0, 1]);  
+
+
+  
+
+d3.json("data/china.json", function(error, root) {
+  if (error) 
+    return console.error(error);
+    //console.log(root.features);
+
+    svg.selectAll("path")
+    .data( root.features )
+    .enter()
+    .append("path")
+    //.attr("stroke","#000")
+    .attr("fill", function(d,i){
+      return d.gdp==0?"#999":color(linear(d.gdp));  
+    })
+    .style("fill-opacity",width>640?0.4:0)
+    .attr("d", path )
+    .each(function(d,i){
+      if(i==31&&width>640) drawDot();
+    })
+    .on("mouseover",function(d,i){
+      d3.select(this).style("fill-opacity",0.6);
+      $(".tag").html(d.properties.name+": "+(d.museumCount==0?"未统计":d.museumCount))
+      var coordinates = [0, 0];
+      coordinates = d3.mouse(this);
+      var x = coordinates[0]-40;
+      var y = coordinates[1]-50;
+      $(".tag").css("top",(width>640?y:y+30)+"px").css("left",x+"px").css("display","block");
+    })
+    .on("mousemove",function(){
+      var coordinates = [0, 0];
+      coordinates = d3.mouse(this);
+      var x = coordinates[0]-40;
+      var y = coordinates[1]-50;
+      $(".tag").css("top",(width>640?y:y+30)+"px").css("left",x+"px");
+    })
+    .on("mouseout",function(){
+      d3.select(this).style("fill-opacity",width>640?0.4:0);
+       $(".tag").css("display","none");
+    })
+
+}); 
+
+
+function drawDot(){
+  d3.json("data/museum-cn.json", function(error, root) {
+        if (error) 
+          return console.error(error);
+     
+           svg.selectAll("circle")
+           .data(root.cities)
+           .enter()
+           .append("circle")
+           .attr("class","dot")
+           .attr("cx", function(d,i){
+              var c = projection(d.cp);
+              return c[0];
+            })
+           .attr("cy", function(d,i){
+
+              var c = projection(d.cp);
+              
+              return c[1];
+       })
+           .attr("r",1)
+           .attr("fill", "#fefd8e")
+           .style("opacity",0.4)                   
+  });
+}
+}
+
+//============================美国================================//
+drawUS();
+
+function drawUS(){
+var svg = d3.select(".map-us").append("svg")
+  .attr("width", width>640?width/2:width)
+  .attr("height", width>640?height:height+mobileTop)
+  .append("g") 
+
+  var projection = d3.geo.albersUsa()
+    .scale(width>640?1050*ratio:2100*ratio)  //858
+    .translate([width>640?width/4:width/2, width>640?height/2:height/2+mobileTop]);
+
+  var path = d3.geo.path()               // path generator that will convert GeoJSON to SVG paths
+         .projection(projection);  // tell path generator to use albersUsa projection
+
+//==颜色取值==//
+var light = d3.rgb(102,154,208);  
+var dark = d3.rgb(28,45,70);      
+  
+var color = d3.interpolate(light,dark);  
+
+var linear = d3.scale.linear()  
+        .domain([35000, 100000])  
+        .range([0, 1]);  
+
+d3.json("data/us.json", function(error, root) {
+  if (error) 
+    return console.error(error);
+    //console.log(root.features);
+
+    svg.selectAll("path")
+    .data(root.features)
+    .enter()
+    .append("path")
+    //.attr("stroke","#000")
+    .attr("fill", function(d,i){
+      return d.gdp==0?"#999":color(linear(d.gdp));  
+    })
+    .style("fill-opacity",width>640?0.4:0)
+    .attr("d", path )   //使用地理路径生成器
+    .each(function(d,i){
+      if(i==50&&width>640) drawDot();
+    })
+    .on("mouseover",function(d,i){
+      d3.select(this).style("fill-opacity",0.6);
+      $(".tag-us").html(d.properties.name+": "+d.museumCount)
+      var coordinates = [0, 0];
+      coordinates = d3.mouse(this);
+      var x = coordinates[0]-40+width/2;
+      var y = coordinates[1]-50;
+      $(".tag-us").css("top",(width>640?y:y+height+mobileTop+30)+"px").css("left",(width>640?x:x-width/2)+"px").css("display","block");
+    })
+    .on("mousemove",function(){
+      var coordinates = [0, 0];
+      coordinates = d3.mouse(this);
+      var x = coordinates[0]-40+width/2;
+      var y = coordinates[1]-50;
+      $(".tag-us").css("top",(width>640?y:y+height+mobileTop+30)+"px").css("left",(width>640?x:x-width/2)+"px");
+    })
+    .on("mouseout",function(){
+      d3.select(this).style("fill-opacity",width>640?0.4:0);
+       $(".tag-us").css("display","none");
+    })
+    
+}); 
+
+function drawDot(){
+  d3.json("data/museum-us.json", function(error, root) {
+
+        if (error) 
+          return console.error(error);
+     
+           svg.selectAll("circle")
+           .data(root.cities)
+           .enter()
+           .append("circle")
+           .attr("class","dot")
+           .attr("cx", function(d,i){
+              var c = projection(d.cp);
+              return c[0];
+            })
+           .attr("cy", function(d,i){
+              var c = projection(d.cp);
+              return c[1];
+       })
+           .attr("r", function(d,i){return 1;})
+           .attr("fill", "#fefd8e")
+           .style("opacity",0.4)
+                        
+                     
+      });
+  }
+
+  }
+
+
+
+  if($(window).width()<=640){
+    var winPos;
+    var elPos = $("#map-banner").offset().top + $("#map-banner").height();
+    $(window).scroll(function(event){
+      winPos = $(window).scrollTop();
+      if(winPos < elPos) {
+        $("#map-btn").hide();
+      } else {
+        $("#map-btn").show();
+      }
+    });
+
+
+  };
+//  mapShow();
+  var isClicked = false;
+  $("#map-btn").click(function(){
+    $("#mapContainer").show();
+    $("#mapLegend").show();
+    $("#locateBtn").show();
+    $("#closeBtn").show();
+    if(!isClicked) {
+      isClicked = true;
+      mapShow();
+    }
+  });
+$(".map-banner").click(function(){
+  $("#mapContainer").show();
+  $("#mapLegend").show();
+  $("#locateBtn").show();
+  $("#closeBtn").show();
+  if(!isClicked) {
+    isClicked = true;
+    mapShow();
+  }
+
+})
+
+  $("#closeBtn").click(function(){
+    $("#mapContainer").hide();
+    $("#mapLegend").hide();
+    $("#locateBtn").hide();
+    $("#closeBtn").hide();
+  });
+  // 地图查看附近博物馆
+
+  function mapShow() {
+
+    var normalm3 = L.tileLayer.chinaProvider('Geoq.Normal.PurplishBlue', {
+      maxZoom: 16,
+      minZoom: 5
+    });
+
+    var map = L.map("map", {
+      center: [116.563862446,39.9205625266],
+      zoom: 18,
+      layers: [normalm3],
+      zoomControl: false
+    });
+
+    L.control.zoom({
+      zoomInTitle: '放大',
+      zoomOutTitle: '缩小'
+    }).addTo(map);
+
+
+
+// 百度坐标转化
+    function bd_decrypt( bd_lat, bd_lon)
+    {
+      var x = bd_lon - 0.0065, y = bd_lat - 0.006;
+      var z = Math.sqrt(x * x + y * y) - 0.00002 * Math.sin(y * Math.PI);
+      var theta = Math.atan2(y, x) - 0.000003 * Math.cos(x * Math.PI);
+      return [z * Math.cos(theta), z * Math.sin(theta)-0.0005 ];
+    }
+    function bd_encrypt(gg_lat, gg_lon)
+    {
+      var latlng = [];
+      var x = gg_lon, y = gg_lat;
+      var z = Math.sqrt(x * x + y * y) + 0.00002 * Math.sin(y * Math.PI);
+      var theta = Math.atan2(y, x) + 0.000003 * Math.cos(x * Math.PI);
+      latlng.push(z * Math.cos(theta) + 0.0065);
+      latlng.push(z * Math.sin(theta) + 0.006);
+      return latlng
+    }
+
+
+    var museumIcon = L.icon({
+      iconUrl: 'locateMap/museum-icon.png',
+      iconSize: [20, 20],
+      iconAnchor: [10, 10],
+      popupAnchor: [0, -10]
+    });
+    var museumIcon2 = L.icon({
+      iconUrl: 'locateMap/museum-icon2.png',
+      iconSize: [20, 20],
+      iconAnchor: [10, 10],
+      popupAnchor: [0, -10]
+    });
+    var locateIcon = L.icon({
+      iconUrl: 'locateMap/locate-icon.png',
+      iconSize: [30, 40],
+      iconAnchor: [15, 20],
+      popupAnchor: [0, -20]
+    });
+
+    var distRadius = 3000;
+    var currentLat, currentLng;
+    var markers = new L.FeatureGroup();
+
+
+    var geolocation = new BMap.Geolocation();
+    geolocation.getCurrentPosition(function(r){
+      if(this.getStatus() == BMAP_STATUS_SUCCESS){
+        var locatePoint = bd_decrypt(r.point.lng, r.point.lat);
+        onLocationFound(locatePoint[0], locatePoint[1]);
+//      alert('您的位置：'+r.point.lng+','+r.point.lat);
+      }
+      else {
+        alert('failed'+this.getStatus());
+      }
+    },{enableHighAccuracy: true})
+
+
+
+    function onLocationFound(BLat, BLng) {
+      map.setView([BLat, BLng], 13);
+      currentLat = BLat;
+      currentLng = BLng;
+      loadMuseum(currentLat, currentLng);
+    }
+
+    function loadMuseum(cLat, cLng){
+      markers.clearLayers();
+      var pointB = L.point(cLat, cLng);
+      var currentMarker = L.marker([cLat, cLng], {icon: locateIcon});
+      markers.addLayer(currentMarker);
+
+      var museumCount = 0;
+      $.getJSON('data/museum-cn-more.json', function(data) {
+//        console.log(data.cities.length);
+        for (var i = 0; i < data.cities.length; i++) {
+          var dataLatlng = bd_decrypt(data.cities[i].cp[0], data.cities[i].cp[1])
+          var pointA = L.point([dataLatlng[0],dataLatlng[1]]);
+          var distance = (pointA.distanceTo(pointB)*100000).toFixed(2);
+          if (distance < distRadius) {
+            museumCount ++;
+            var isFreeText;
+            var marker;
+            if(data.cities[i].isFree == "TRUE") {
+              isFreeText = "免费开放";
+              marker = L.marker([dataLatlng[0], dataLatlng[1]], {icon: museumIcon}).bindPopup("<span style='font-weight:bold'>"+data.cities[i].museum+"</span><br/>地址:"+data.cities[i].addr, {"className": "popup1"});
+            }else {
+              isFreeText = "收费";
+              marker = L.marker([dataLatlng[0], dataLatlng[1]], {icon: museumIcon2}).bindPopup("<span style='font-weight:bold'>"+data.cities[i].museum+"</span><br/>地址:"+data.cities[i].addr, {"className": "popup2"});
+            }
+            markers.addLayer(marker);
+          }
+        }
+        currentMarker.bindPopup("您的定位3公里内有"+ museumCount +"家博物馆" , {"className": "popup0"}).openPopup();
+      })
+      map.addLayer(markers);
+    }
+
+
+    $("#locateBtn").click(function(){
+      currentLat = map.getCenter().lat;
+      currentLng = map.getCenter().lng;
+      loadMuseum(currentLat, currentLng);
+    })
+  }
+
+
+
+
+</script>
+<!-- 财新网客户端分享代码 -->
+<div style="display:none" id="__cxnewsapp_topbar">分享按钮是否显示的标志</div>
+<div style="display:none" id="__cxnewsapp_orientation">flexible</div>
+<div style="display:none" id="__cxnewsapp_sharetext">截至2015年末，中国内地31个省市自治区共有4626家博物馆，约每30万人拥有1家博物馆</div>
+<div style="display:none" id="__cxnewsapp_sharephotourl">http://datanews.caixin.com/mobile/webjs/weixin.jpg</div>
+<div style="display:none" id="__cxnewsapp_sharewxurl">http://datanews.caixin.com/mobile/museum/index.html</div>
+<div style="display:none" id="__cxnewsapp_sharewxthumburl">http://datanews.caixin.com/mobile/webjs/weixin.jpg</div>
+<div style="display:none" id="__cxnewsapp_sharewxtitle">财新 | 今天是国际博物馆日，逛不逛随你，反正最近的博物馆都替你标好了</div>
+<div style="display:none" id="__cxnewsapp_sharewxtext">截至2015年末，中国内地31个省市自治区共有4626家博物馆，约每30万人拥有1家博物馆</div>
+  <!-- 微信分享代码 -->
+<script src="http://file.caixin.com/datanews/bjhk/js/jweixin-1.0.0.js"></script>
+<script src="http://file.caixin.com/datanews/bjhk/js/get_wx_config.js"></script>
+<script>
+    getWXConfig();
+    var imgUrl = "http://datanews.caixin.com/mobile/webjs/weixin.jpg";
+    var lineLink = "http://datanews.caixin.com/mobile/museum/index.html";
+    var descContent = '截至2015年末，中国内地31个省市自治区共有4626家博物馆，约每30万人拥有1家博物馆';
+    var shareTitle = '财新 | 今天是国际博物馆日，逛不逛随你，反正最近的博物馆都替你标好了';
+    var appid = '';
+    wx.ready(function(){
+        wx.onMenuShareTimeline({
+            title: shareTitle, // 分享标题
+            link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            success: function () {
+                // 用户下一步分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+        wx.onMenuShareAppMessage({
+            title: shareTitle, // 分享标题
+            desc: descContent, // 分享描述
+            link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            type: '', // 分享类型,music、video或link，不填默认为link
+            dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+            success: function () {
+                // 用户下一步分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+        wx.onMenuShareQQ({
+            title: shareTitle, // 分享标题
+            desc: descContent, // 分享描述
+            link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            success: function () {
+                // 用户下一步分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+        wx.onMenuShareWeibo({
+            title: shareTitle, // 分享标题
+            desc: descContent, // 分享描述
+            link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            success: function () {
+                // 用户下一步分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+    });
+   
+</script>
+<!--caixin analytics start-->
+<script type="text/javascript" src="http://file.caixin.com/webjs/common/caixinlog.js"></script>
+<!--caixin analytics end-->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-27956240-1','caixin.com');
+ga('require','displayfeatures');
+var dimensionObject = document.getElementById("author_baidu");
+if(typeof(dimensionObject)=="object"&&dimensionObject!=null){
+var dimensionValue = dimensionObject.innerHTML;
+ga('set','dimension1',dimensionValue);
+ga('send','pageview',{'dimension1':dimensionValue});
+}else{
+ga('send','pageview');
+}
+</script>
+</html>]]></content>
   </entry>
 </search>
