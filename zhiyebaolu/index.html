@@ -4,31 +4,31 @@
 	<title>在刀尖上起舞：医务人员职业暴露问题</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<!-- <meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> -->
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta content="telephone=no" name="format-detection">
     <meta content="email=no" name="format-detection">
     <meta content="black" name="apple-mobile-web-app-status-bar-style">
-  <link rel="stylesheet" type="text/css" href="locateMap/leaflet.css">
-    <script src="js/d3.min.js" charset="utf-8"></script>
+  <!-- <link rel="stylesheet" type="text/css" href="locateMap/leaflet.css"> -->
+    <!-- <script src="js/d3.min.js" charset="utf-8"></script>
 	<script src="js/jquery-1.7.2.min.js" language="javascript"></script>
 	<script src="js/jquery.easing.1.3.js" language="javascript"></script>
 	<script src="js/jquery-1.12.4.js"></script>
     <script src="js/jquery-ui.js"></script>
-    <script src="js/draggable_fix.js"></script>
+    <script src="js/draggable_fix.js"></script> -->
 </head>
 <style>
-	body{margin: 0; background-color: rgb(250, 248, 248); color: #000000;  font-family: arial,"Microsoft YaHei","微软雅黑"; background-image: url(https://ae05.alicdn.com/kf/H4a05a6ec20ee42138e126edcb070c92bo.png); background-size: 100% auto; background-repeat:no-repeat; } 
+	body{margin: 0; background-color: rgb(255,255,255); color: #000000;  font-family: arial,"Microsoft YaHei","微软雅黑"; background-image: url(https://ae05.alicdn.com/kf/H4a05a6ec20ee42138e126edcb070c92bo.png); background-size: 100% auto; background-repeat:no-repeat; } 
   .pc{display: block;}
   .mobile{display: none}
   .tag{position: absolute; z-index: 9999; font-size: 14px; color: #fff; top:0px; left: 0px; background-color: rgba(0,0,0,0.3); padding: 10px; border-radius: 10px; display: none;}
   .para{position: relative; }
   .para p{width: 980px; margin: 0 auto; line-height: 28px; padding-bottom: 40px}
   .splitline {width:980px; height: 1px; background: #666; margin: 0 auto; margin-bottom:20px; }
-  .split{height: 30px; width: 100%; background-repeat: no-repeat; text-align: center; margin-bottom: 50px;}
+  .split{height: 30px; width: 100%; background-repeat: no-repeat; text-align: center; margin-bottom: 100px;}
   .big-title{height: 150px; font-size: 60px; line-height: 72px; color: #fff; width: 980px; margin: 0 auto; padding-top: 160px; font-weight: bold; }
   .sub-title p{width: 980px; padding-bottom: 600px; padding-top: 20px; color:#d48a86; }
   .data{font-size: 12px; color: #5b5b5b; margin: 0; padding: 0; text-align: center;}
@@ -43,14 +43,14 @@
     .splitline {width:90%; height: 1px; background: #666; margin: 0 auto; margin-bottom:20px; }
     .sub-title p{width: 90%; padding-left: 5%; font-size: 14px; line-height: 24px; padding-bottom: 20px}
     .cloud{width: 100%;}
-    .map-caption{width: 100%; position: absolute;}
+    /* .map-caption{width: 100%; position: absolute;}
     .map-caption-cn{width: 90%; text-align: left; padding-left: 5%; border-right: 0px}
     .map-caption-us{width: 90%; text-align: left;}
     .map-us{left: 0%; background-image: url(map-bg-us.jpg); background-size:100% auto; background-repeat: no-repeat; background-position: 0 98px }
     .map-cn{left: 0%; background-image: url(map-bg-cn.jpg); background-size:100% auto; background-repeat: no-repeat; background-position: 0 98px }
     .nanhai{position: absolute; left: 5%; width: 40px;}
     .map-caption-cn p{font-size: 10px}
-    .map-caption-us p{font-size: 10px}
+    .map-caption-us p{font-size: 10px} */
     .cloud{height: 260px}
     p.data{font-size: 12px; line-height: 16px; text-align: left;}
     .reference p{font-size: 12px; line-height: 18px;} 
@@ -58,12 +58,29 @@
 </style>
 <body>
 <div class="big-title">在刀尖上起舞<br>医务人员职业暴露问题</div>
-<div class="pc para sub-title">
-  <p><i>“职业暴露谨提防，被染难辩心冤枉。”<br>
-    在丁香园论坛的帖子里，一位为昵称为“看破红尘步入佛门”的医师这样总结。<br>
+<!-- <div class="pc para sub-title">
+  <p><i>“职业暴露谨提防，被染难辩心冤枉。”<br/>
+    在丁香园论坛的帖子里，一位为昵称为“看破红尘步入佛门”的医师这样总结。<br/>
     在丁香园、知乎、百度贴吧等论坛里搜索“职业暴露”，会看到不少求助帖，它们大多由经历了职业暴露的医务人员发布。医疗工作者的焦虑、心酸与无奈夹杂在社交媒体里，共同指向了困扰医务人员已久的职业暴露问题。
 </i></p>
-</div>
+</div> -->
+<div class="para">
+<p>“职业暴露谨提防，被染难辩心冤枉。”<br>
+    在丁香园论坛的帖子里，一位为昵称为“看破红尘步入佛门”的医师这样总结。<br>
+    在丁香园、知乎、百度贴吧等论坛里搜索“职业暴露”，会看到不少求助帖，它们大多由经历了职业暴露的医务人员发布。医疗工作者的焦虑、心酸与无奈夹杂在社交媒体里，共同指向了困扰医务人员已久的职业暴露问题。</p>
+<p><img src="[pic.png](https://ae03.alicdn.com/kf/H77a0803d415644c4b881f83222349ff5u.png)" width="100%" style="border:#eee 1px solid" class="pc">
+<img src="[pic-m.png](https://ae03.alicdn.com/kf/H77a0803d415644c4b881f83222349ff5u.png)" width="100%" style="border:#eee 1px solid" class="mobile"></p>
+<div>
+<!-- 
+<div class= "split">
+  <img src="https://ae03.alicdn.com/kf/H77a0803d415644c4b881f83222349ff5u.png" width="980px">
+  <img src="https://ae06.alicdn.com/kf/H61db395748454e5fb07fe988730ce29aU.png" width="980px">
+</div> -->
+<dic class="para">
+<p><center><iframe src="https://plotdb.io/v/chart/28207" width="980px" height="600px" allowfullscreen="false" frameborder="0"></iframe></center></p>
+<div class="para reference">
+  <p><span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ><strong>数据来源</strong>：“丁香医生”论坛<span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"><br><strong>数据说明</strong>：以“职业暴露”为关键词检索，并进行人工二次筛选，最终获得210篇讨论帖；收集时间：2020年12月9日
+</span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"></span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ></p></div class="para reference"></dic></div>
 <div class="para mobile"><p>“职业暴露谨提防，被染难辩心冤枉。”<br>
     在丁香园论坛的帖子里，一位为昵称为“看破红尘步入佛门”的医师这样总结。<br>
     在丁香园、知乎、百度贴吧等论坛里搜索“职业暴露”，会看到不少求助帖，它们大多由经历了职业暴露的医务人员发布。医疗工作者的焦虑、心酸与无奈夹杂在社交媒体里，共同指向了困扰医务人员已久的职业暴露问题。</p></div> 
@@ -77,17 +94,25 @@
 <div class="para">
   <p>2020年12月1日是第33个“世界艾滋病日”。根据世界卫生组织关于艾滋病的实况报道，“卫生人员等不慎被针具刺伤”是感染艾滋病毒的高危情况之一[1]。在以艾滋病为代表的传染性顽症面前，治病救人的白衣天使无时无刻不在和潜伏着的危险较量，而容易受到职业暴露伤害的这一群体，又似乎总是不得已地沉默在公众的关注之外。</p>
   <p>
-  <img src="/zhiyebaolu/pic.png" width="100%" style="border:#eee 1px solid" class="pc">
-  <img src="/zhiyebaolu/pic-m.png" width="100%" style="border:#eee 1px solid" class="mobile">
+  <!-- <img src="pic.png" width="100%" style="border:#eee 1px solid" class="pc" />
+  <img src="pic-m.png" width="100%" style="border:#eee 1px solid" class="mobile" /> -->
   </p>
-    <center><h1>暴露在何处？</h1></center>
+<div class="split">
+  <img src="https://ae05.alicdn.com/kf/H31386b8a9242422589c9d6003a7df2d7g.png" width="980px"> </div>
   <p>在我国，经历职业暴露的医务人员的群像究竟是怎样的？医务人员当中的哪些职业群体更加脆弱？医护工作当中的哪些情况又更加危险？</p>
   <p>2016年，来自山东大学附属省立医院、中南大学湘雅医院等15家医院的研究人员采取发放调查问卷的形式，对全国13个省份158所不同级别医院的医护人员进行了有关职业暴露发生情况与职业暴露管理现状的调查研究[2]。</p>
   <p>研究结果表明，职业暴露发生概率较高的科室分别是普通病房、手术室、重症监护病房、口腔科及急诊科。由此可见，生死攸关的手术室里职业暴露频发，但哪怕在日常护理的情境下，医务人员也不能掉以轻心。职业暴露发生了，谁来管？研究显示，近80%的医院由医院感染管理部门负责，少数医院由预防保健科或医务处负责。职业暴露管理部门权责不清、职业暴露规章制度不完善以及职业暴露漏报现象突出，都是医务人员职业暴露管理工作中亟待解决的问题。</p>
 </div>
-<div class="split"><img src="/zhiyebaolu/split.png"></div>
+<!-- <div class="split"><img src="split.png" /></div> -->
 <div class="para">
   <p>总的来说，我国医务人员面临职业暴露的风险大，危害重，形势严峻。</p>
+  <p><img src="https://ae04.alicdn.com/kf/Hb092fed005a74cea9c462167af416c5eZ.png" width="980px"></p>
+  <p><img src="https://ae02.alicdn.com/kf/H08f71f2b8b79427ab21fae33abd74b5ap.png" width="980px"></p>
+  <p><img src="https://ae04.alicdn.com/kf/H15ae9cece5de4f7cacca05001060aa8dB.png" width="980px"></p>
+  <div class="para reference">
+  <p><span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ><strong>数据来源</strong>： 孙建, 徐华, 顾安曼等. 中国医务人员职业暴露与防护工作的调查分析. 中国感染控制杂志, 2016, 第15卷(9):681-685.<span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"><br><strong>数据说明</strong>：1.锐器：能刺破皮肤的物品，常见的锐器包括注射针、穿刺针、缝合针、采血针、载玻片、破损安瓶等，也就是说，在手术、输液等常见护理场合下，医疗人员均有被刺破皮肤、发生职业暴露的可能性。<br>2.黏膜接触：鼻子内部、眼皮内部、嘴巴内部、呼吸道、消化道、性器官等。<br>3. HBV（乙肝病毒），梅毒，HCV（丙肝病毒，HIV（艾滋病病毒）均为DNA病毒，可通过血液传播，体液传播和母婴垂直传播，且为终身携带病毒。
+
+</span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"></span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ></p></div class="para reference"></div>
   <p>“身边的同事很多都被针扎过，没有大碍就不会上报，大家都是胆战心惊地继续工作罢了。”虫虫是江苏苏州地区一家二甲私立医院的护士，正式工作一年半的她，已经经历了两次职业暴露，如果算上实习期，这个次数还要更多。</p>
   <p>“那个瞬间，我脑子里就是‘嗡’的一下。”回忆起第一次遭遇职业暴露，瞥见无菌手套里的血迹的那一刻，虫虫整个人仿佛挨上一记重棍。一直到术后拿到了患者的验血报告，看见各项指标均为阴性时，她悬着的心才落了下来。</p>
   <p>在职业生涯的选择与职业暴露的风险之间，虫虫的无奈并非个例。可能只是针扎一下，只是锐器划一道小口子，或者血液飞溅到身上，尤其是对于刚入行的医生和护士，这样的遭遇近乎家常便饭，并非每一例职业暴露都会被完整地登记、上报。《中国医务人员职业暴露与防护工作的调查分析》对全国158家医院进行的抽样调查里，多达122家医院存在医务人员职业暴露漏报现象，占比77.22%。登记过程繁琐，上报后再无音讯，以及索赔之路艰难、漫长，都有可能成为医务人员把苦水咽进肚里的原因。所以，在实际情况中，经历过职业暴露的医务人员这一群体，只会比想象中的更多。</p>
@@ -108,32 +133,41 @@
 </div>
 <div class="split"><img src="/zhiyebaolu/split.png"></div>
 <div class="para"> 
-<center><h>危害有谁知？</h></center>
+  <div class="split"><img src="https://ae05.alicdn.com/kf/Hf183e1fdfc8e41e480606330ac24ed48e.png" width="980px"> </div>
   <p>国家统计局2020年统计结果显示，我国医务人员已从2015年的801万人增长至2019年的1010万人，平均每年以52.25万人的速度增长。</p>
   <p>医务人员数量迅速增长的同时，更高质量、更人性化的医疗服务成为公众期待。近年来，医患冲突事件时常成为社会热点。要提升我国的医疗服务水平、改善医患关系，切实保障医务人员的合法权益、促进医务人员与公众之间的沟通显得尤为重要。</p>
   <p>2019年发表在国际临床综合期刊《英国医学杂志》的一篇名为《中国医务工作者职业暴露的现况及其对工作满意度的影响》的研究显示，我国医务人员的工作满意度和工作环境满意度并不乐观，平均得分只有3.27（5分为满分）和2.53（5分为满分）[3]。</p>
   <p>职业暴露非但成为影响医务人员工作满意度的重要因素，还有可能对医务人员的心理健康造成巨大影响。</p>
   <p>有学者以山东省3家医院2017年1月至2018年12月发生血源性职业暴露的118名医务人员为样本，进行医务人员职业暴露与心理健康状况的调查[4]。调查结果显示，医务人员发生血源性职业暴露后，容易出现抑郁、焦虑、偏执等心理问题，创伤后应激障碍（PTSD）十分常见，职业暴露发生后不同的应对方式以及不同的社会支持都是影响医务人员心理健康的因素。</p>
+  ---缺图
+  <div class="para reference">
+  <p><span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ><strong>数据来源</strong>：孙朝霞等.医务人员血源性职业暴露后的心理健康状况及影响因素.中国劳动卫生职业病杂志.2019.11<span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"><br><strong>数据说明</strong>：1.收集山东省3家医院2017年1月至2018年12月发生血源性职业暴露的118名医务人员为接触组，以同期100名常规医务人员作为对照组。<br>2.SCL-90心理症状测评量表，采用1-5级评分，单项因子分≥2级作为判断心理健康测评阳性标准
   <p>静态的数字总是冰凉，但倘若个体真正成为了构成分子的那个“一”，就意味着生命里不可逆转的、难以承受的苦痛：医务人员的职业生涯的终结，白衣天使及其背后的家庭成员们将永远反刍着突如其来的、挥之不去的伤痛。</p>
   <p class="pc"><img src="/zhiyebaolu/us-income.jpg" width="100%"></p>
   <p class="mobile"><img src="/zhiyebaolu/us-income-mobile.jpg" width="100%"></p>
-</div>
+</span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"></span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ></p></div class="para reference"></div>
 <div class="para"> 
-<center><h>医者谁来医？</h></center>
+  <div class="split"><img src="https://ae04.alicdn.com/kf/Ha4c8a3f7350f4ac3b099361c0934ffbe2.png" width="980px"> </div>
  <p>职业暴露发生之后的应急处理方式，是每位医护人员的必修课。</p>
  <p>在多种类型的职业暴露中，HIV职业暴露是公众讨论热度相比较高的话题。根据卫生部2004年印发的《医务人员艾滋病病毒职业暴露防护工作指导原则》，HIV职业暴露一旦发生，医疗卫生机构应当对医护人员的暴露级别和暴露源的病毒载量水平进行评估，再据此确定用药方案。</p>
+ <p><img scr="https://ae01.alicdn.com/kf/H285cbf3fad66465badf89ba735838756m.png"></p>
+ <div class="para reference">
+  <p><span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ><strong>数据来源</strong>：孙朝霞等.医务人员血源性职业暴露后的心理健康状况及影响因素.中国劳动卫生职业病杂志.2019.11<span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"><br><strong>数据说明</strong>：HIV职业暴露分级的标准：当暴露源为体液、血液或者是含有体液、血液的医疗器械、物品，或者暴露源沾染了有损伤的皮肤或黏膜，但暴露量小、暴露时间短可定为一级；暴露量大、暴露时间长可定为二级；当暴露源刺伤或割伤皮肤，损伤程度较重，伤口深，刺伤物有明显可见的血液，此时定位三级。
+</span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153);"></span data-mce-style="color: #999999;" style="color: rgb(153, 153, 153)" ></p></div class="para reference"></div>
+<div class="para"> 
  <p>职业暴露发生后的应急措施，是捍卫医疗工作者生命健康的最后一道防线；而完善职业暴露相关的立法保护，才能从根本上兜住医护人员的正当权利。</p>
  <p>然而，目前我国医护人员职业暴露法律保护的立法现状尚显空白。早在2009年9月，卫生部便发布了《血源性病原体职业接触防护导则》，提出将医疗人员针刺暴露损伤造成的疾病作为职业病来预防和治疗的建议，但《导则》仅是推荐性标准和部门规章，并非法律性文件和强制性要求。</p>
  <p>十几年来，我国《工伤保险条例》经过数次改革，在工伤认定方面划定了详尽的治疗目录及药品目录。可惜的是，医护人员遭受的职业暴露问题仍未能被考虑在内——除医护人员在职业活动中受到的辐射损伤外，其他情形下的职业暴露尚未被归于职业病类别或工伤类别。这让医护人员在临床诊疗、护理病患的过程中权利难以得到保障，职业暴露带来的损害同样难以得到救济。</p>
   <p>2019年底爆发的新冠肺炎疫情在客观上推动了我国公共卫生事业的发展。2020年全国两会期间，全国人大代表、安徽医科大学第一附属医院教授刘荣玉建议，“面临像SARS、COVID-19这种感染风险特别高的疫情时，在诊疗过程中因职业暴露感染疾病应属于意外伤害，应认定为工伤。”与此同时，她提出，医务人员感染性职业暴露疾病如AIDS、乙肝、丙肝等，也应列入职业病分类目录和工伤认定范围。</p>
   <p>法律体系的完善并非一朝一夕之事，填补职业暴露相关的立法保护的空白，终究是个漫长、但必须不断推进的过程。</p>
+  </div>
 <div class="para"> 
 <center><h>结语</h></center>
   <p>在职业暴露这柄悬顶之剑下，医疗工作者成为了“隐形”的脆弱群体。白衣天使们的声音值得被更多人听见，立法保障也应当成为捍卫医务人员权益的铜墙铁壁。唯有如此，我国的医疗卫生事业才能长足发展。</p>
   <p>巨象走出房间，需要你我共同努力。</p>
   <div class="split"><img src="/zhiyebaolu/split.png"></div>
 <div class="para reference"> 
-  <p>注：分词方面，中文使用jieba分词组件，英文使用NLTK模块，中英分词中均过滤了人工指定停用词。</p>
+  <!-- <p>注：分词方面，中文使用jieba分词组件，英文使用NLTK模块，中英分词中均过滤了人工指定停用词。</p> -->
   <p>补充数据来源：<br>
 世界卫生组织 艾滋病毒/艾滋病实况报道 2020年7月6日<br>
 孙建, 徐华, 顾安曼等. 中国医务人员职业暴露与防护工作的调查分析[J]. 中国感染控制杂志, 2016, 第15卷(9):681-685.<br>
@@ -141,11 +175,11 @@ Shi Y, Xue H, Ma Y, et al，Prevalence of occupational exposure and its influenc
 孙朝霞，杨谦，赵利.医务人员血源性职业暴露后的心理健康状况及影响因素[J].中华劳动卫生职业病杂志,2019,第37卷(11): 835-839 </p>
 </div>
 <div class="splitline" style="border-top: 1px solid #666;"></div>
-<div class="para" style="color:#666; font-size: 14px;">
+<center><div class="para" style="color:#666; font-size: 14px;">
   <p>
     辛美仪 陈芊灵 陆佳楠 何雨琪<br>
     指导老师 方洁<br>
-  </p>
+  </p></div></center>
 </div>
-</div></div></body>
+</body>
 </html>
