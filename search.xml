@@ -186,6 +186,7 @@
 <div class="para">
 <div class="pictitle"><strong>剧情和试听效果是观众主要讨论的话题</strong></div>
   <div class="pic"><iframe src="https://plotdb.io/v/chart/28413" width="900px" height="600px" allowfullscreen="true" frameborder="0"></iframe> </div>
+ <div id="map-banner" class="map-banner mobile"><iframe src="https://plotdb.io/v/chart/28413" width="100%" height="600px" allowfullscreen="false" frameborder="0"></iframe></div>
 <div class="para reference"> 
   <p>数据来源：豆瓣郭敬明电影作品影评（收集时间：2020年12月29日）<br> 数据说明：1.影视作品包括“小时代”系列、“爵迹”系列和《晴雅集》，爬取每部电影好评、中评、差评各200条<br>2.面积越大表示该词汇出现频次越多</p>
 </div>
@@ -223,7 +224,8 @@
   <div class="para reference"> 
   <p>数据来源：豆瓣《晴雅集》电影热评（收集时间：2020年12月30日）<br>数据说明：每个点代表一条热评评论，横轴代表评论的情感分析值，纵轴代表评论者对电影的星级评分</p>
 </div>
-  <p>从千禧年初到二零年代，从纸媒强强联手到打通文娱产业的商业帝国，郭敬明的多面人生及其带来的“郭敬明现象”一直被不断解读——剥离无病呻吟的空洞内容，青春文学如何立稳根基？资本、流量裹挟下的影视行业，应当走向何处？抄袭、融梗“大当其道”的生态圈里，文艺创作者的人格与作品又应当如何评判？</p>
+<div class="para">
+  <p>从千禧年初到二零年代，从纸媒强强联手到打通文娱产业的商业帝国，郭敬明的多面人生及其带来的“郭敬明现象”一直被不断解读——剥离无病呻吟的空洞内容，青春文学如何立稳根基？资本、流量裹挟下的影视行业，应当走向何处？抄袭、融梗“大当其道”的生态圈里，文艺创作者的人格与作品又应当如何评判？</p></div>
 <div class="splitline" style="border-top: 1px solid #666;"></div>
 <center><div class="para" style="color:#666; font-size: 14px;">
   <p>
