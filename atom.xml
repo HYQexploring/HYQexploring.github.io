@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2020-12-29T00:01:47.307Z</updated>
+  <updated>2020-12-29T18:52:36.724Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hyqexploring.github.io/guojingming/"/>
     <id>https://hyqexploring.github.io/guojingming/</id>
     <published>2020-12-28T23:23:05.000Z</published>
-    <updated>2020-12-29T00:01:47.307Z</updated>
+    <updated>2020-12-29T18:52:36.724Z</updated>
     
     
       
@@ -105,7 +105,8 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;写在前面&quot;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;老实说，后面好些内容我都不能从逻辑上将它们串联起来，只能先copy原本的笔记和老师的PPT，到时候边看边梳理，用“讲人话”的方式再表述一遍（头晕眼花.jpg)。</summary>
         
       
     
@@ -130,7 +131,7 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3</summary>
         
       
     
@@ -148,14 +149,14 @@
     <link href="https://hyqexploring.github.io/daily/IntrospectionofProfession/"/>
     <id>https://hyqexploring.github.io/daily/IntrospectionofProfession/</id>
     <published>2020-11-23T18:33:28.000Z</published>
-    <updated>2020-12-28T07:17:20.193Z</updated>
+    <updated>2020-12-29T15:54:00.187Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h3 id=&quot;写在前面的碎碎念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面的碎碎念&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3</summary>
         
       
     
@@ -184,7 +185,7 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;写在前面的碎碎念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面的碎碎念&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3</summary>
         
       
     
@@ -209,7 +210,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;大兴旧宫考古实践&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#大兴旧宫考古实践&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1&gt;大兴旧宫考古实践&lt;/h1&gt;
+&lt;p&gt;上学期旁听了学校历史学院考古文博系王晓琨老师的课《考古纪录片的制作与欣赏》，上周末老师在群里发了一则参与考古实践参观的活动通知，没多想就参加了。周六（10月31日）的时候我们一行十多人，坐地铁到北京大兴区旧庄的西周遗址进行了一上午的参观体</summary>
         
       
     
@@ -234,8 +236,8 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;写在前面的碎碎念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面的碎碎念&quot;&gt;&lt;/a&gt; 写在前面的碎碎念&lt;/h3&gt;
-&lt;p&gt;照样是因为事情太多又想凑更新翻出来的旧笔记，是阅读&lt;font</summary>
+    <summary type="html">&lt;h3 id=&quot;写在前面的碎碎念&quot;&gt;写在前面的碎碎念&lt;/h3&gt;
+&lt;p&gt;照样是因为事情太多又想凑更新翻出来的旧笔记，是阅读&lt;font style=&quot;background:rgb(222, 225, 230)&quot;&gt;塞人</summary>
         
       
     
@@ -279,7 +281,7 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3</summary>
         
       
     
@@ -304,7 +306,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;用于测试博客系统&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用于测试博客系统&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;用于测试博客系统&quot;&gt;用于测试博客系统&lt;/h2&gt;
+&lt;p&gt;因为刚搭建好博客系统尚缺乏使用经验，因此在各个分类下都找了篇旧文章测试一下。这篇读书笔记记于2019年5月29日，是阅读 &lt;font style=&quot;background:rgb(222, 225,</summary>
         
       
     
@@ -329,7 +332,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;用于测试博客系统&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用于测试博客系统&quot;&gt;&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2</summary>
         
       
     
