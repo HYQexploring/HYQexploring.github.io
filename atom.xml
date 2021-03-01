@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2021-03-01T02:55:20.475Z</updated>
+  <updated>2021-03-01T08:48:55.315Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>What happened to my Hexo Blog!?</title>
+    <link href="https://hyqexploring.github.io/study/BlogBugs/"/>
+    <id>https://hyqexploring.github.io/study/BlogBugs/</id>
+    <published>2021-03-01T05:03:52.000Z</published>
+    <updated>2021-03-01T08:48:55.315Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;*This is a note to record the bugs I’ve met with my blog, which will be continusly updated.&lt;br&gt;
+用来记录写博客的时候碰到的问题，持续更新~&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="study" scheme="https://hyqexploring.github.io/categories/study/"/>
+    
+    
+    <category term="blog" scheme="https://hyqexploring.github.io/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>假期（二）</title>

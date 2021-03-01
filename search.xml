@@ -1756,4 +1756,32 @@ A不存在——不存在的是谁？——（不存在的是）A<br>
         <tag>philosophy</tag>
       </tags>
   </entry>
+  <entry>
+    <title>What happened to my Hexo Blog!?</title>
+    <url>/study/BlogBugs/</url>
+    <content><![CDATA[<p>*This is a note to record the bugs I’ve met with my blog, which will be continusly updated.<br>
+用来记录写博客的时候碰到的问题，持续更新~</p>
+<h2 id="spawn-failed错误"><a class="markdownIt-Anchor" href="#spawn-failed错误"></a> spawn failed错误</h2>
+<pre><code>fatal: unable to access 'https://github.com/**/**.github.io/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443
+FATAL &#123;
+err: Error: Spawn failed
+  at ChildProcess.&lt;anonymous&gt; (D:\HYQblog\node_modules\hexo-deployer-git\node_modules\hexo-util\lib\spawn.js:51:21)
+  at ChildProcess.emit (events.js:315:20)
+  at ChildProcess.cp.emit (D:\HYQblog\node_modules\cross-spawn\lib\enoent.js:34:29)
+  at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) &#123;
+code: 128
+  &#125;
+&#125; Something's wrong. Maybe you can find the solution here: %s https://hexo.io/docs/troubleshooting.html
+</code></pre>
+<p><a href="https://github.com/hexojs/hexo/issues/2778">解决方法</a>:<br>
+use command:<br>
+<code>hexo config deploy.repository git@github.com:[yourgitname]/[yourgitname].github.io.git</code></p>
+]]></content>
+      <categories>
+        <category>study</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
 </search>
