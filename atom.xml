@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2021-03-01T08:48:55.315Z</updated>
+  <updated>2021-03-04T11:57:44.002Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新学期新气象（新flags）</title>
+    <link href="https://hyqexploring.github.io/daily/NewSemester/"/>
+    <id>https://hyqexploring.github.io/daily/NewSemester/</id>
+    <published>2021-03-04T11:12:10.000Z</published>
+    <updated>2021-03-04T11:57:44.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;新学期的第一周差不多过完了，课程经过一周的试听也差不多摸了个底。新学期新气象嘛，来立一些flags：&lt;/p&gt;
+&lt;p&gt;1、把国政的框架搭好些。刚刚看(Left’s blog)[&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
+    
+    
+    <category term="plan" scheme="https://hyqexploring.github.io/tags/plan/"/>
+    
+  </entry>
   
   <entry>
     <title>What happened to my Hexo Blog!?</title>
@@ -498,31 +524,6 @@
     
     
     <category term="economic" scheme="https://hyqexploring.github.io/tags/economic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试文件</title>
-    <link href="https://hyqexploring.github.io/daily/test/"/>
-    <id>https://hyqexploring.github.io/daily/test/</id>
-    <published>2020-10-03T18:00:24.000Z</published>
-    <updated>2020-10-08T13:58:27.409Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;用于测试博客系统&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用于测试博客系统&quot;&gt;&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="daily" scheme="https://hyqexploring.github.io/categories/daily/"/>
-    
-    
-    <category term="travel" scheme="https://hyqexploring.github.io/tags/travel/"/>
     
   </entry>
   
