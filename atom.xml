@@ -6,7 +6,7 @@
   <link href="https://hyqexploring.github.io/atom.xml" rel="self"/>
   
   <link href="https://hyqexploring.github.io/"/>
-  <updated>2021-03-04T12:00:58.237Z</updated>
+  <updated>2021-03-12T18:32:19.893Z</updated>
   <id>https://hyqexploring.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搬迁公告</title>
+    <link href="https://hyqexploring.github.io/uncategorized/goodbye/"/>
+    <id>https://hyqexploring.github.io/uncategorized/goodbye/</id>
+    <published>2021-03-12T18:30:20.000Z</published>
+    <updated>2021-03-12T18:32:19.893Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;博客已经搬迁到VPS上，Github这边可能不再更新，也可能作为备份站点，或者用于其他用途。感谢半年来的陪伴~后会有期！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>新学期新气象（新flags）</title>
@@ -499,31 +521,6 @@
     
     
     <category term="travel" scheme="https://hyqexploring.github.io/tags/travel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试文件2</title>
-    <link href="https://hyqexploring.github.io/study/test2/"/>
-    <id>https://hyqexploring.github.io/study/test2/</id>
-    <published>2020-10-04T18:53:11.000Z</published>
-    <updated>2020-10-05T10:58:07.708Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;用于测试博客系统&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用于测试博客系统&quot;&gt;&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="study" scheme="https://hyqexploring.github.io/categories/study/"/>
-    
-    
-    <category term="economic" scheme="https://hyqexploring.github.io/tags/economic/"/>
     
   </entry>
   
